@@ -1,0 +1,635 @@
+.
+36
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+See accompanying notes to consolidated financial statements.
+37
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except per share data)
+See accompanying notes to consolidated financial statements.
+38
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(in millions)
+See accompanying notes to consolidated financial statements.
+39
+Table of Contents
+AMAZON.COM, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1--DESCRIPTION OF BUSINESS AND ACCOUNTING POLICIES
+Description of Business Amazon.com opened its virtual doors on the World Wide Web in July 1995 and offers Earth's Biggest Selection. We seek to be Earth's most customer-centric company for four primary customer sets:
+consumers, sellers, enterprises, and content creators. We serve consumers through our retail websites and focus on selection, price, and convenience. We also manufacture and sell Kindle devices. We offer programs that enable sellers to sell their
+products on our websites and their own branded websites and to fulfill orders through us. We serve developers and enterprises of all sizes through AWS, which provides access to technology infrastructure that enables virtually any type of business.
+In addition, we generate revenue through other marketing and promotional services, such as online advertising, and co-branded credit card agreements. We have organized our operations into two principal segments: North America and International. See "Note 11--Segment Information."
+Prior Period Reclassifications Certain prior period amounts have been reclassified to conform to the current period presentation. Services sales is presented separately, because it is now more than 10% of total net sales.
+Principles of Consolidation The consolidated financial statements include the accounts of Amazon.com, Inc., its wholly-owned subsidiaries, and those entities in which we have a variable interest and are the primary beneficiary.
+Intercompany balances and transactions have been eliminated. Use of Estimates
+The preparation of financial statements in conformity with GAAP requires estimates and assumptions that affect the reported amounts of
+assets and liabilities, revenues and expenses, and related disclosures of contingent liabilities in the consolidated financial statements and accompanying notes. Estimates are used for, but not limited to, determining the selling price of products
+and services in multiple element revenue arrangements and determining the lives of these elements, incentive discount offers, sales returns, vendor funding, stock-based compensation, income taxes, valuation of investments and inventory,
+collectability of receivables, valuation of acquired intangibles and goodwill, depreciable lives of fixed assets , and internally-developed software, and contingencies. Actual results could differ materially from those estimates.
+Earnings per Share Basic earnings per share is calculated using our weighted-average outstanding common shares. Diluted earnings per share is calculated using our weighted-average outstanding common shares including the
+dilutive effect of stock awards as determined under the treasury stock method. The following table shows the calculation of
+diluted shares (in millions):
+40
+Table of Contents
+Cash and Cash Equivalents
+We classify all highly liquid instruments with an original maturity of three months or less at the time of purchase as cash equivalents.
+Inventories Inventories, consisting of products available for sale, are primarily accounted for using the FIFO method, and are valued at the lower of cost or market value. This valuation requires us to make
+judgments, based on currently-available information, about the likely method of disposition, such as through sales to individual customers, returns to product vendors, or liquidations, and expected recoverable values of each disposition category.
+We provide fulfillment-related services in connection with certain of our sellers' programs. Third-party sellers
+maintain ownership of their inventory, regardless of whether fulfillment is provided by us or the third-party sellers, and therefore these products are not included in our inventories.
+Accounts Receivable, Net, and Other Included in "Accounts receivable, net, and other" on our consolidated balance sheets are amounts primarily related to vendor and customer receivables. At December 31, 2011 and 2010, vendor
+receivables, net, were $934 million and $763 million, and customer receivables, net, were $1.2 billion and $561 million.
+Allowance for Doubtful Accounts We estimate losses on receivables based on known troubled accounts and historical experience of losses incurred. The allowance for doubtful accounts was $82 million and $77 million at December 31,
+2011 and 2010. Internal-use Software and Website Development
+Costs incurred to develop software for internal use and our websites are capitalized and amortized over the estimated useful life of the
+software. Costs related to design or maintenance of internal-use software and website development are expensed as incurred. For the years ended 2011, 2010, and 2009, we capitalized $307 million (including $51 million of stock-based
+compensation), $213 million (including $38 million of stock-based compensation), and $187 million (including $35 million of stock-based compensation) of costs associated with internal-use software and website development. Amortization of previously
+capitalized amounts was $236 million, $184 million, and $172 million for 2011, 2010, and 2009. Depreciation of Fixed
+Assets Fixed assets include assets such as furniture and fixtures, heavy equipment, servers and networking equipment,
+internal-use software and website development. Depreciation is recorded on a straight-line basis over the estimated useful lives of the assets (generally two years for assets such as internal-use software, three years for our servers and networking
+equipment, five years for furniture and fixtures, and ten years for heavy equipment). Depreciation expense is classified within the corresponding operating expense categories on our consolidated statements of operations.
+Leases and Asset Retirement Obligations We categorize leases at their inception as either operating or capital leases. On certain of our lease agreements, we may receive rent holidays and other incentives. We recognize lease costs on a
+straight-line basis without regard to deferred payment terms, such as rent holidays that defer the commencement date of required
+41
+Table of Contents
+payments. Additionally, incentives we receive are treated as a reduction of our costs over the term of the agreement. Leasehold improvements are capitalized at cost and amortized over the lesser
+of their expected useful life or the non-cancellable term of the lease. We establish assets and liabilities for the estimated
+construction costs incurred under build-to-suit lease arrangements to the extent we are involved in the construction of structural improvements or take construction risk prior to commencement of a lease. Upon occupancy of facilities under
+build-to-suit leases, we assess whether these arrangements qualify for sales recognition under the sale-leaseback accounting guidance. If we continue to be the deemed owner, the facilities are accounted for as financing leases.
+We establish assets and liabilities for the present value of estimated future costs to retire long-lived assets at the termination or
+expiration of a lease. Such assets are depreciated over the lease period into operating expense, and the recorded liabilities are accreted to the future value of the estimated retirement costs.
+Goodwill
+We evaluate goodwill for impairment annually or more frequently when an event occurs or circumstances change that indicate that the
+carrying value may not be recoverable. We test goodwill for impairment by first comparing the book value of net assets to the fair value of the reporting units. If the fair value is determined to be less than the book value or qualitative factors
+indicate that it is more likely than not that goodwill is impaired, a second step is performed to compute the amount of impairment as the difference between the estimated fair value of goodwill and the carrying value. We estimate the fair value of
+the reporting units using discounted cash flows. Forecasts of future cash flows are based on our best estimate of future net sales and operating expenses, based primarily on expected category expansion, pricing, market segment share and general
+economic conditions. We conduct our annual impairment test as of October 1 of each year, and have determined there to be
+no impairment for any of the periods presented. There were no triggering events identified from the date of our assessment through December 31, 2011 that would require an update to our annual impairment test. See
+"Note 4--Acquisitions, Goodwill, and Acquired Intangible Assets." Other Assets
+Included in "Other assets" on our consolidated balance sheets are amounts primarily related to marketable securities restricted
+for longer than one year, the majority of which are attributable to collateralization of bank guarantees and debt related to our international operations; acquired intangible assets, net of amortization; deferred costs; certain equity investments;
+and intellectual property rights, net of amortization. Investments
+We generally invest our excess cash in investment grade short-to intermediate-term fixed income securities and AAA-rated money market
+funds. Such investments are included in "Cash and cash equivalents," or "Marketable securities" on the accompanying consolidated balance sheets, classified as available-for-sale, and reported at fair value with unrealized gains
+and losses included in "Accumulated other comprehensive income (loss)." Equity investments, including our 31%
+investment in LivingSocial, are accounted for using the equity method of accounting if the investment gives us the ability to exercise significant influence, but not control, over an investee. The total of these investments in equity-method
+investees, including identifiable intangible assets, deferred tax liabilities and goodwill, is classified on our consolidated balance sheets as "Other assets." Our share of the investees' earnings or losses as reported by equity
+method investees, amortization of the related intangible assets, and related gains or losses, if any, are classified as "Equity-method investment activity, net of tax" on our consolidated statements of operations. Our share of the net
+income or loss of our equity method investees includes operating and non-operating gains and charges, which can have a significant impact on our reported
+42
+Table of Contents
+equity-method investment activity and the carrying value of those investments. We regularly evaluate these investments, which are not carried at fair value, for other-than-temporary impairment.
+We also consider whether our equity method investments generate sufficient cash flows from their operating or financing activities to meet their obligations and repay their liabilities when they come due.
+We record purchases, including incremental purchases, of shares in equity-method investees at cost. Reductions in our ownership
+percentage of an investee, including through dilution, are generally valued at fair value, with the difference between fair value and our recorded cost reflected as a gain or loss in our equity-method investment activity. In the event we no longer
+have the ability to exercise significant influence over an equity-method investee, we would discontinue accounting for the investment under the equity method. Equity investments without readily determinable fair values for which we do not have the ability to exercise significant influence are accounted for using the cost method of accounting and classified as
+"Other assets" on our consolidated balance sheets. Under the cost method, investments are carried at cost and are adjusted only for other-than-temporary declines in fair value, certain distributions, and additional investments.
+Equity investments that have readily determinable fair values are classified as available-for-sale and are included in "Marketable
+securities" in our consolidated balance sheet and are recorded at fair value with unrealized gains and losses, net of tax, included in "Accumulated other comprehensive loss."
+We periodically evaluate whether declines in fair values of our investments below their book value are other-than-temporary. This
+evaluation consists of several qualitative and quantitative factors regarding the severity and duration of the unrealized loss as well as our ability and intent to hold the investment until a forecasted recovery occurs. Additionally, we assess
+whether we have plans to sell the security or it is more likely than not we will be required to sell any investment before recovery of its amortized cost basis. Factors considered include quoted market prices; recent financial results and operating
+trends; implied values from any recent transactions or offers of investee securities; credit quality of debt instrument issuers; other publicly available information that may affect the value of our investments; duration and severity of the decline
+in value; and our strategy and intentions for holding the investment. Long-Lived Assets
+Long-lived assets, other than goodwill, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying
+amount of the assets might not be recoverable. Conditions that would necessitate an impairment assessment include a significant decline in the observable market value of an asset, a significant change in the extent or manner in which an asset is
+used, or any other significant adverse change that would indicate that the carrying amount of an asset or group of assets may not be recoverable. For long-lived assets used in operations, impairment losses are only recorded if the asset's carrying amount is not recoverable through its undiscounted, probability-weighted future cash flows. We
+measure the impairment loss based on the difference between the carrying amount and estimated fair value. Long-lived assets are considered held for sale when certain criteria are met, including when management has committed to a plan to sell the
+asset, the asset is available for sale in its immediate condition, and the sale is probable within one year of the reporting date. Assets held for sale are reported at the lower of cost or fair value less costs to sell. Assets held for sale were not
+significant at December 31, 2011 or 2010. Accrued Expenses and Other
+Included in "Accrued expenses and other" at December 31, 2011 and 2010 were liabilities of $788 million and $503 million
+for unredeemed gift certificates. We reduce the liability for a gift certificate when redeemed by a customer. If a gift certificate is not redeemed, we recognize revenue when it expires or, for a certificate without an expiration date, when the
+likelihood of its redemption becomes remote, generally two years from the date of issuance.
+43
+Table of Contents
+Unearned Revenue
+Unearned revenue is recorded when payments are received in advance of performing our service obligations and is recognized over the
+service period. Current unearned revenue is included in "Accrued expenses and other" and non-current unearned revenue is included in "Long-term liabilities" on our consolidated balance sheets. Current unearned revenue was $462
+million and $461 million at December 31, 2011 and 2010. Non-current unearned revenue was $87 million and $34 million at December 31, 2011 and 2010. Income Taxes Income tax expense includes U.S. and international income
+taxes. Except as required under U.S. tax law, we do not provide for U.S. taxes on our undistributed earnings of foreign subsidiaries that have not been previously taxed since we intend to invest such undistributed earnings indefinitely outside of
+the U.S. Undistributed earnings of foreign subsidiaries that are indefinitely invested outside of the U.S were $2.0 billion at December 31, 2011. Determination of the unrecognized deferred tax liability that would be incurred if such amounts
+were repatriated is not practicable. Deferred income tax balances reflect the effects of temporary differences between the
+carrying amounts of assets and liabilities and their tax bases and are stated at enacted tax rates expected to be in effect when taxes are actually paid or recovered. Deferred tax assets are evaluated for future realization and reduced by a valuation allowance to the extent we believe a portion will not be realized. We consider many factors when assessing the
+likelihood of future realization of our deferred tax assets, including our recent cumulative earnings experience and expectations of future taxable income and capital gains by taxing jurisdiction, the carry-forward periods available to us for tax
+reporting purposes, and other relevant factors. We allocate our valuation allowance to current and long-term deferred tax assets on a pro-rata basis. We utilize a two-step approach to recognizing and measuring uncertain income tax positions (tax contingencies). The first step is to evaluate the tax position for recognition by determining if the weight
+of available evidence indicates it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount which is
+more than 50% likely of being realized upon ultimate settlement. We consider many factors when evaluating and estimating our tax positions and tax benefits, which may require periodic adjustments and which may not accurately forecast actual
+outcomes. We include interest and penalties related to our tax contingencies in income tax expense. Fair Value of
+Financial Instruments Fair value is defined as the price that would be received to sell an asset or paid to transfer a
+liability in an orderly transaction between market participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs to valuation methodologies used to measure fair value:
+Level 1--Valuations based on quoted prices for identical assets and liabilities in active
+markets. Level 2--Valuations based on observable inputs other than quoted prices included in
+Level 1, such as quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, or other inputs that are observable or can be corroborated by
+observable market data. Level 3--Valuations based on unobservable inputs reflecting our own
+assumptions, consistent with reasonably available assumptions made by other market participants. These valuations require significant judgment.
+44
+Table of Contents
+We measure the fair value of money market funds and equity securities based on quoted prices
+in active markets for identical assets or liabilities. All other financial instruments were valued either based on recent trades of securities in inactive markets or based on quoted market prices of similar instruments and other significant inputs
+derived from or corroborated by observable market data. We did not hold any cash, cash equivalents, or marketable securities categorized as Level 3 as of December 31, 2011, or December 31, 2010.
+Revenue
+We recognize revenue from product sales or services rendered when the following four criteria are met: persuasive evidence of an
+arrangement exists, delivery has occurred or services have been rendered, the selling price is fixed or determinable, and collectability is reasonably assured. Revenue arrangements with multiple deliverables are divided into separate units and
+revenue is allocated using estimated selling prices if we do not have vendor-specific objective evidence or third-party evidence of the selling prices of the deliverables. Sales of our Kindle device are considered arrangements with multiple
+deliverables, consisting of the device, 3G wireless access and delivery for some models, and software upgrades. We allocate the arrangement price to each of the elements based on the estimated selling prices of each element. Estimated selling prices
+are management's best estimates of the prices that we would charge our customers if we were to sell the standalone elements separately and include considerations of customer demand, prices charged by us and others for similar deliverables, and
+the price if largely based on costs. The revenue related to the device, which is the substantial portion of the total sale price, and related costs are recognized upon delivery. Revenue related to 3G wireless access and delivery and software
+upgrades is amortized over the average life of the device, which is estimated to be three years. We evaluate whether it is
+appropriate to record the gross amount of product sales and related costs or the net amount earned as commissions. Generally, when we are primarily obligated in a transaction, are subject to inventory risk, have latitude in establishing prices and
+selecting suppliers, or have several but not all of these indicators, revenue is recorded at the gross sales price. We generally record the net amounts as commissions earned if we are not primarily obligated and do not have latitude in establishing
+prices. Such amounts earned are determined using a fixed percentage, a fixed-payment schedule, or a combination of the two.
+Product sales represent revenue from the sale of products and related shipping fees and digital content where we are the seller of
+record. Product sales and shipping revenues, net of promotional discounts, rebates, and return allowances, are recorded when the products are shipped and title passes to customers. Kindle devices sold through retailers are recognized at the point of
+sale to consumers. Retail sales to customers are made pursuant to a sales contract that provides for transfer of both title and risk of loss upon our delivery to the carrier. Services sales represent third-party seller fees earned (including commissions) and related shipping fees and non-retail activities such as AWS, miscellaneous marketing and promotional activities, other
+seller sites, and our co-branded credit card arrangements. Services sales, net of promotional discounts and return allowances, are recognized when services have been rendered. Return allowances, which reduce revenue, are estimated using historical experience. Revenue from product sales and services rendered is recorded net of sales and consumption taxes. Amounts received in
+advance for subscription services, including amounts received for Amazon Prime and other membership programs, are deferred and recognized as revenue over the subscription term.
+We periodically provide incentive offers to our customers to encourage purchases. Such offers include current discount offers, such as
+percentage discounts off current purchases, inducement offers, such as offers for future discounts subject to a minimum current purchase, and other similar offers. Current discount offers, when accepted by our customers, are treated as a reduction
+to the purchase price of the related transaction, while inducement offers, when accepted by our customers, are treated as a reduction to purchase price based on estimated future redemption rates. Redemption rates are estimated using our historical
+experience for similar inducement offers. Current discount offers and inducement offers are presented as a net amount in "Total sales."
+45
+Table of Contents
+Cost of Sales
+Cost of sales consists of the purchase price of consumer products and digital content where we are the seller of record, inbound and
+outbound shipping charges, and packaging supplies. Shipping charges to receive products from our suppliers are included in our inventory, and recognized as cost of sales upon sale of products to our customers. Payment processing and related
+transaction costs, including those associated with seller transactions, are classified in "Fulfillment" on our consolidated statements of operations. Vendor Agreements We have agreements to receive cash consideration from
+certain of our vendors, including rebates and cooperative marketing reimbursements. We generally consider amounts received from our vendors as a reduction of the prices we pay for their products and, therefore, record such amounts as a reduction of
+the cost of inventory we buy from them. Vendor rebates are typically dependent upon reaching minimum purchase thresholds. We evaluate the likelihood of reaching purchase thresholds using past experience and current year forecasts. When volume
+rebates can be reasonably estimated, we record a portion of the rebate as we make progress towards the purchase threshold.
+When we receive direct reimbursements for costs incurred by us in advertising the vendor's product or service, the amount we receive
+is recorded as an offset to "Marketing" on our consolidated statements of operations. Fulfillment
+Fulfillment costs represent those costs incurred in operating and staffing our fulfillment and customer service centers,
+including costs attributable to buying, receiving, inspecting, and warehousing inventories; picking, packaging, and preparing customer orders for shipment; payment processing and related transaction costs, including costs associated with our
+guarantee for certain seller transactions; responding to inquiries from customers, and supply chain management for our manufactured Kindle devices. Fulfillment costs also include amounts paid to third parties that assist us in fulfillment and
+customer service operations. Marketing Marketing costs consist primarily of targeted online advertising, television advertising, public relations expenditures; and payroll and related expenses for personnel engaged in marketing, business
+development, and selling activities. We pay commissions to participants in our Associates program when their customer referrals result in product sales and classify such costs as "Marketing" on our consolidated statements of operations. We
+also participate in cooperative advertising arrangements with certain of our vendors, and other third parties. Advertising
+and other promotional costs, are expensed as incurred, and were $1.4 billion, $890 million, and $593 million in 2011, 2010, and 2009. Prepaid advertising costs were not significant at December 31, 2011 and 2010.
+Technology and Content Technology and content expenses consist principally of technology infrastructure expenses and payroll and related expenses for employees involved in application, product, and platform development,
+category expansion, editorial content, buying, merchandising selection, and systems support, digital initiatives, as well as costs associated with the compute, storage and telecommunications infrastructure used internally and supporting AWS.
+Technology and content costs are expensed as incurred, except for certain costs relating to the development of internal-use
+software and website development, including software used to upgrade and enhance our websites and applications supporting our business, which are capitalized and amortized over two years.
+46
+Table of Contents
+General and Administrative
+General and administrative expenses consist of payroll and related expenses for employees involved in general corporate functions,
+including accounting, finance, tax, legal, and human relations, among others; costs associated with use by these functions of facilities and equipment, such as depreciation expense and rent; professional fees and litigation costs; and other general
+corporate costs. Stock-Based Compensation Compensation cost for all stock-based awards expected to vest is measured at fair value on the date of grant and recognized over the service period. The fair value of restricted stock units is determined
+based on the number of shares granted and the quoted price of our common stock. Such value is recognized as expense over the service period, net of estimated forfeitures, using the accelerated method. The estimation of stock awards that will
+ultimately vest requires judgment, and to the extent actual results or updated estimates differ from our current estimates, such amounts will be recorded as a cumulative adjustment in the period estimates are revised. We consider many factors when
+estimating expected forfeitures, including employee class, economic environment, and historical experience. Other
+Operating Expense (Income), Net Other operating expense (income), net, consists primarily of intangible asset amortization
+expense, expenses related to legal settlements, and certain gains and losses on the sale of assets. Other Income
+(Expense), Net Other income (expense), net, consists primarily of foreign currency transaction gains and losses of $64
+million, $75 million, and $26 million in 2011, 2010, and 2009, and realized gains and losses on marketable securities sales of $4 million, $1 million, and $4 million in 2011, 2010, and 2009.
+Foreign Currency We have internationally-focused websites for the United Kingdom, Germany, France, Japan, Canada, China, Italy, and Spain. Net sales generated from these websites, as well as most of the related
+expenses directly incurred from those operations, are denominated in the functional currencies of the resident countries. The functional currency of our subsidiaries that either operate or support these websites is the same as the local currency.
+Assets and liabilities of these subsidiaries are translated into U.S. Dollars at period-end exchange rates, and revenues and expenses are translated at average rates prevailing throughout the period. Translation adjustments are included in
+"Accumulated other comprehensive income (loss)," a separate component of stockholders' equity, and in the "Foreign currency effect on cash and cash equivalents," on our consolidated statements of cash flows. Transaction
+gains and losses including intercompany transactions denominated in a currency other than the functional currency of the entity involved are included in "Other income (expense), net" on our consolidated statements of operations. In
+connection with the remeasurement of intercompany balances, we recorded gains of $70 million, $70 million, and $5 million in 2011, 2010, and 2009. Recent Accounting Pronouncements In 2010, the Financial Accounting
+Standards Board ("FASB") issued an Accounting Standards Update ("ASU") to address diversity in practice in interpreting the pro forma revenue and earnings disclosure requirements for business combinations. The ASU specifies that
+if a public entity presents comparative financial statements, the entity should disclose revenue and earnings of the combined entity as though the current year business combination(s) had occurred as of the beginning of the comparable prior annual
+reporting period. We prospectively adopted this ASU effective Q1 2011, with no material impact on our consolidated financial statements.
+47
+Table of Contents
+In 2011, the FASB issued two ASUs which amend guidance for the presentation of comprehensive
+income. The amended guidance requires an entity to present components of net income and other comprehensive income in one continuous statement, referred to as the statement of comprehensive income, or in two separate, but consecutive statements. The
+current option to report other comprehensive income and its components in the statement of stockholders' equity will be eliminated. Although the new guidance changes the presentation of comprehensive income, there are no changes to the
+components that are recognized in net income or other comprehensive income under existing guidance. These ASUs are effective for us in Q1 2012 and retrospective application will be required. These ASUs will change our financial statement
+presentation of comprehensive income but will not impact our net income, financial position, or cash flows. In 2011, the FASB
+issued an ASU which intended to reduce complexity and costs by allowing an entity the option to make a qualitative evaluation about the likelihood of goodwill impairment to determine whether it should calculate the fair value of a reporting unit.
+The ASU also expands upon the examples of events and circumstances that an entity should consider between annual impairment tests in determining whether it is more likely than not that the fair value of a reporting unit is less than its carrying
+amount. The ASU is effective for us in Q1 2012, with early adoption permitted. We do not expect adoption to have an impact on our consolidated financial statements.
+Note 2--CASH, CASH EQUIVALENTS, AND MARKETABLE SECURITIES
+As of December 31, 2011 and 2010 our cash, cash equivalents, and marketable securities primarily consisted of
+cash, U.S. and foreign government and agency securities, AAA-rated money market funds, and other investment grade securities. Such amounts are recorded at fair value. The following table summarizes, by major security type, our assets that are
+measured at fair value on a recurring basis and are categorized using the fair value hierarchy (in millions):
+48
+Table of Contents
+The following table summarizes gross gains and gross losses
+realized on sales of available-for-sale marketable securities (in millions):
+The following table summarizes contractual maturities of our cash equivalent and marketable fixed-income
+securities as of December 31, 2011 (in millions):
+49
+Table of Contents
+Note 3--FIXED ASSETS
+Fixed assets, at cost, consisted of the following (in millions):
+Depreciation expense on fixed assets was $1.0 billion, $552 million, and $384 million which includes amortization of fixed assets
+acquired under capital lease obligations of $335 million, $164 million, and $88 million for 2011, 2010, and 2009. Gross assets remaining under capital leases were $1.6 billion and $818 million at December 31, 2011 and 2010. Accumulated
+depreciation associated with capital leases was $603 million and $331 million at December 31, 2011 and 2010. We
+capitalize construction in progress and record a corresponding long-term liability for lease agreements where we are considered the owner during the construction period for accounting purposes, including portions of our Seattle, Washington,
+corporate office space that we do not currently occupy. The building which we have not yet occupied is scheduled to be completed in 2012 and 2013. For buildings under build-to-suit lease arrangements where we have taken occupancy, which do not qualify for sales recognition under the sale-leaseback accounting guidance, we determined that we continue
+to be the deemed owner of these buildings. This is principally due to our significant investment in tenant improvements. As a result, the buildings are being depreciated over the shorter of their useful lives or the related leases' terms. The
+long-term construction obligation is now considered long-term financing lease obligations with amounts payable during the next 12 months recorded as "Accrued expenses and other." Gross assets remaining under financing leases were $595
+million and $189 million at December 31, 2011 and 2010. Accumulated depreciation associated with financing leases was $37 million and $8 million at December 31, 2011 and 2010.
+50
+Table of Contents
+Note 4--ACQUISITIONS, GOODWILL, AND ACQUIRED INTANGIBLE ASSETS
+2011 Acquisition Activity In 2011, we acquired certain companies for an aggregate purchase price of $771 million. The primary reasons for these acquisitions, none of which was individually material to our consolidated financial
+statements, were to expand our customer base and sales channels, including our consumer channels and subscription entertainment services. Acquisition-related costs were expensed as incurred and were not significant. The aggregate purchase price of
+these acquisitions was allocated as follows (in millions):
+In addition to cash consideration and the fair value of vested stock options, the aggregate purchase price included the estimated fair value of our previous, noncontrolling interest in one of the acquired
+companies. We remeasured this equity interest to fair value at the acquisition date and recognized a non-cash gain of $6 million in "equity-method investment activity, net of tax," in our 2011 consolidated statement of operations. The fair
+value of assumed stock options was estimated using the Black-Scholes model. We determined the estimated fair value of identifiable intangible assets acquired primarily by using the income and cost approaches. Purchased identifiable intangible assets
+are included within "Other assets" on our consolidated balance sheets and are being amortized to operating expenses on a straight-line or accelerated basis over their estimated useful lives.
+51
+Table of Contents
+Pro Forma Financial Information (unaudited)
+The acquired companies were consolidated into our financial statements starting on their respective acquisition dates. The aggregate net
+sales and net losses of the acquired companies recorded in our consolidated statement of operations from the respective acquisition dates through December 31, 2011 were $511 million and $95 million. The following pro forma financial information
+presents our results as if these acquisitions had occurred at the beginning of 2010 (in millions):
+2010 Acquisition Activity In 2010, we acquired certain companies for an aggregate purchase price of $228 million, resulting in goodwill of $111 million and acquired intangible assets of $91 million. The primary reasons for these
+acquisitions were to expand our customer base and sales channels. The purchase price was allocated to the tangible assets and intangible assets acquired and liabilities assumed based on their estimated fair values on the acquisition date, with the
+remaining unallocated purchase price recorded as goodwill. The fair value assigned to identifiable intangible assets acquired was determined primarily by using the income and cost approaches. These intangible assets are being amortized on a
+straight-line or accelerated basis over their respective useful lives. The acquired companies were consolidated into our
+financial statements starting on their respective acquisition dates. Pro forma results of operations have not been presented because the effects of these business combinations, individually and in the aggregate, were not material to our consolidated
+results of operations. 2009 Acquisition Activity
+On November 1, 2009, we acquired 100% of the outstanding equity of Zappos.com, Inc. ("Zappos"), in exchange for shares of
+our common stock, to expand our presence in softline retail categories, such as shoes and apparel. The fair value of
+Zappos' stock options assumed was determined using the Black-Scholes model. The following table summarizes the consideration paid for Zappos (in millions):
+The fair value assigned to identifiable intangible assets acquired has been determined primarily by using
+the income approach. Purchased identifiable intangible assets are being amortized on a straight-line or accelerated basis over their respective useful lives.
+52
+Table of Contents
+The following summarizes the allocation of the Zappos purchase price (in millions):
+Zappos' financial results have been included in our consolidated statements of income since November 1, 2009. The following pro
+forma financial information presents our results as if the Zappos acquisition had occurred at the beginning of 2009 (in millions):
+We acquired certain additional companies during 2009 for an aggregate purchase price of $26 million,
+resulting in goodwill of $16 million and acquired intangible assets of $5 million. All of the entities have been consolidated into our financial statements since their respective acquisition dates. Pro forma results of operations have not been
+presented because the effects of these business combinations, individually and in the aggregate, were not material to our consolidated results of operations. Goodwill The goodwill of the acquired companies is generally not
+deductible for tax purposes and is primarily related to expected sales growth from future product offerings and customers, together with certain intangible assets that do not qualify for separate recognition. The following summarizes our goodwill
+activity in 2011 and 2010 by segment (in millions):
+53
+Table of Contents
+Intangible Assets
+Acquired intangible assets, included within "Other assets" on our consolidated balance sheets, consist of the following:
+Amortization expense for acquired intangibles was $149 million, $105 million, and $48 million in 2011, 2010, and 2009. Expected future amortization expense of acquired intangible assets as of
+December 31, 2011 is as follows (in millions):
+54
+Table of Contents
+Note 5--EQUITY-METHOD INVESTMENTS
+Our equity-method investments include a 31% interest in LivingSocial. Summarized condensed financial information for
+this investee, as provided to us by LivingSocial, is as follows (in millions):
+As of December 31, 2011, the book value of our LivingSocial investment was $208 million. The
+summarized financial information is included for the periods in which we held an equity method ownership interest.
+Note 6--LONG-TERM LIABILITIES
+Our long-term liabilities are summarized as follows:
+Long-term Debt Our long-term debt had a weighted average interest rate of 5.8% and 5.5% in 2011 and 2010 and has maturities in 2012 and 2013. Long-term debt relates to amounts borrowed to fund certain international
+operations. Long-term debt obligations are as follows:
+55
+Table of Contents
+Capital Leases
+Certain of our equipment fixed assets, primarily related to technology infrastructure, have been acquired under capital leases. Long-term
+capital lease obligations are as follows:
+Financing Leases We continue to be the deemed owner after occupancy of certain facilities that were constructed as build-to-suit lease arrangements and previously reflected as "Construction liability." As such,
+these arrangements are accounted for as financing leases. Long-term finance lease obligations are as follows:
+Construction Liabilities We capitalize construction in progress and record a corresponding long-term liability for certain build-to-suit lease agreements where we are considered the owner during the construction period for
+accounting purposes, including our Seattle, Washington, corporate office space that we do not currently occupy. See "Note 3--Fixed Assets" for a discussion of these leases.
+Tax Contingencies As of December 31, 2011 and 2010, we have recorded tax reserves for tax contingencies, inclusive of accrued interest and penalties, of approximately $266 million and $243 million for U.S. and foreign
+income taxes. These contingencies primarily relate to transfer pricing, state income taxes, and research and development credits. See "Note 10--Income Taxes" for discussion of tax contingencies.
+The remainder of our long-term liabilities primarily include deferred tax liabilities, unearned revenue, asset retirement obligations,
+and deferred rental liabilities.
+Note 7--COMMITMENTS AND CONTINGENCIES
+Commitments We have entered into non-cancellable operating, capital and financing leases for equipment and office, fulfillment center, and data center facilities. Rental expense under operating lease agreements was
+$362 million, $225 million, and $171 million for 2011, 2010, and 2009.
+56
+Table of Contents
+The following summarizes our principal contractual commitments, excluding open orders for
+inventory purchases that support normal operations, as of December 31, 2011:
+Pledged Securities We have pledged or otherwise restricted $156 million and $160 million in 2011 and 2010 of our cash and marketable securities as collateral for standby and trade letters of credit, guarantees, debt related
+to our international operations, as well as real estate leases. We classify cash and marketable securities with use restrictions of twelve months or longer as non-current "Other assets" on our consolidated balance sheets.
+Inventory Suppliers During 2011, no vendor accounted for 10% or more of our inventory purchases. We generally do not have long-term contracts or arrangements with our vendors to guarantee the availability of merchandise,
+particular payment terms, or the extension of credit limits. Legal Proceedings
+The Company is involved from time to time in claims, proceedings and litigation, including the following:
+In June 2001, Audible, Inc., our subsidiary acquired in March 2008, was named as a defendant in a securities class-action filed in United
+States District Court for the Southern District of New York related to its initial public offering in July 1999. The lawsuit also named certain of the offering's underwriters, as well as Audible's officers and directors as defendants.
+Approximately 300 other issuers and their underwriters have had similar suits filed against them, all of which are included in a single coordinated proceeding in the Southern
+57
+Table of Contents
+District of New York. The complaints allege that the prospectus and the registration statement for Audible's offering failed to disclose that the underwriters allegedly solicited and
+received "excessive" commissions from investors and that some investors allegedly agreed with the underwriters to buy additional shares in the aftermarket in order to inflate the price of Audible's stock. Audible and its officers
+and directors were named in the suits pursuant to Section 11 of the Securities Act of 1933, Section 10(b) of the Securities Exchange Act of 1934, and other related provisions. The complaints seek unspecified damages, attorney and
+expert fees, and other unspecified litigation costs. In March 2009, all parties, including Audible, reached a settlement of these class actions that would resolve this dispute entirely with no payment required from Audible. The settlement was
+approved by the Court in October 2009, and subsequently upheld by the United States Court of Appeals for the Second Circuit, and the appeal of the last remaining objector to the settlement was dismissed in January 2012.
+Beginning in March 2003, we were served with complaints filed in several different states, including Illinois, by a private litigant,
+Beeler, Schad & Diamond, P.C., purportedly on behalf of the state governments under various state False Claims Acts. The complaints allege that we (along with other companies with which we have commercial agreements) wrongfully failed to
+collect and remit sales and use taxes for sales of personal property to customers in those states and knowingly created records and statements falsely stating we were not required to collect or remit such taxes. In December 2006, we learned that one
+additional complaint was filed in the state of Illinois by a different private litigant, Matthew T. Hurst, alleging similar violations of the Illinois state law. All of the complaints seek injunctive relief, unpaid taxes, interest, attorneys'
+fees, civil penalties of up to $10,000 per violation, and treble or punitive damages under the various state False Claims Acts. It is possible that we have been or will be named in similar cases in other states as well. We dispute the allegations of
+wrongdoing in these complaints and intend to vigorously defend ourselves in these matters. In November 2007, an Austrian
+copyright collection society, Austro-Mechana, filed lawsuits against several Amazon.com EU subsidiaries in the Commercial Court of Vienna, Austria and in the District Court of Munich, Germany seeking to collect a tariff on blank digital media sold
+by our EU-based retail websites to customers located in Austria. In July 2008, the German court stayed the German case pending a final decision in the Austrian case. In July 2010, the Austrian court ruled in favor of Austro-Mechana and ordered
+us to report all sales of products to which the tariff potentially applies for a determination of damages. We contested Austro-Mechana's claim and in September 2010 commenced an appeal in the Commercial Court of Vienna. We lost this appeal and
+in March 2011 commenced an appeal in the Supreme Court of Austria. In October 2011, the Austrian Supreme Court referred the case to the European Court of Justice. In March 2009, Discovery Communications, Inc. filed a complaint against us for patent infringement in the United States District Court for the District of Delaware. The complaint alleged that our Kindle
+e-reader infringed a patent owned by Discovery purporting to cover an "Electronic Book Security and Copyright Protection System" (U.S. Patent No. 7,298,851) and sought monetary damages, a continuing royalty sufficient to compensate
+Discovery for any future infringement, treble damages, costs and attorneys' fees. In May 2009, we filed counterclaims and an additional lawsuit in the United States District Court for the Western District of Washington against Discovery
+alleging infringement of several patents owned by Amazon and requesting a declaration that several Discovery patents, including the one listed above, are invalid and unenforceable. In November 2011, we entered into a settlement of the litigation
+that included, among other things, a payment to the plaintiff and a non-exclusive patent cross-license agreement. The settlement was not material to either the current or future years.
+In April 2009, Parallel Networks, LLC filed a complaint against us for patent infringement in the United States District Court for the
+Eastern District of Texas. The complaint alleges, among other things, that our website technology infringes a patent owned by Parallel Networks purporting to cover a "Method And Apparatus For Client-Server Communication Using a Limited
+Capability Client Over A Low-Speed Communications Link" (U.S. Patent No. 6,446,111) and seeks injunctive relief, monetary damages, costs and attorneys' fees. The complaint was dismissed without prejudice in February 2010, but the
+plaintiff filed a new complaint against us the following month containing similar allegations. We dispute the allegations of wrongdoing and intend to
+58
+Table of Contents
+vigorously defend ourselves in this matter. In December 2011 the Court granted Amazon's motion for summary judgment and dismissed the claims against Amazon with prejudice. The plaintiff is
+appealing that decision. In May 2009, Big Baboon, Inc. filed a complaint against us for patent infringement in the United
+States District Court for the Central District of California. The complaint alleges, among other things, that our third-party selling and payments technology infringes a patent owned by Big Baboon, Inc. purporting to cover an "Integrated
+Business-to-Business Web Commerce and Business Automation System" (U.S. Patent No. 6,115,690) and seeks injunctive relief, monetary damages, treble damages, costs and attorneys' fees. In February 2011, the Court entered an order
+staying the lawsuit pending the outcome of the Patent and Trademark Office's re-examination of the patent in suit. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter.
+In September 2009, SpeedTrack, Inc. filed a complaint against us for patent infringement in the United States District Court for the
+Northern District of California. The complaint alleges, among other things, that our website technology infringes a patent owned by SpeedTrack purporting to cover a "Method For Accessing Computer Files and Data, Using Linked Categories Assigned
+to Each Data File Record on Entry of the Data File Record" (U.S. Patent Nos. 5,544,360) and seeks injunctive relief, monetary damages, enhanced damages, costs and attorneys' fees. In November 2009, the Court entered an order staying the
+lawsuit pending the outcome of the Patent and Trademark Office's re-examination of the patent in suit and the resolution of similar litigation against another party. We dispute the allegations of wrongdoing and intend to vigorously defend
+ourselves in this matter. In October 2009, Eolas Technologies Incorporated filed a complaint against us for patent
+infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that our website technology infringes two patents owned by Eolas purporting to cover "Distributed Hypermedia Method
+for Automatically Invoking External Application Providing Interaction and Display of Embedded Objects within a Hypermedia Document" (U.S. Patent No. 5,838,906) and "Distributed Hypermedia Method and System for Automatically Invoking
+External Application Providing Interaction and Display of Embedded Objects within a Hypermedia Document" (U.S. Patent No. 7,599,985) and seeks injunctive relief, monetary damages, costs and attorneys' fees. In July 2011, Eolas's
+damages expert opined that, if we are found to infringe the patents-in-suit and the patents are found to be valid (both of which we dispute), Amazon and its affiliates should pay damages of approximately $135 million. Amazon's damages expert
+has opined that, under the same circumstances, the maximum damages fairly recoverable against Amazon and its affiliates would be $1.2 million. Eolas's damages could be trebled if Eolas prevails in its claim that any infringement was willful. We
+dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. In December 2009, Nazomi
+Communications, Inc. filed a complaint against us for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that the processor core in our Kindle e-reader infringes two
+patents owned by Nazomi purporting to cover "Java virtual machine hardware for RISC and CISC processors" and "Java hardware accelerator using microcode engine" (U.S. Patent Nos. 7,080,362 and 7,225,436) and seeks monetary
+damages, injunctive relief, costs and attorneys' fees. In January 2012, Nazomi added Amazon to a second lawsuit, which alleges, among other things, that the Kindle Fire infringes a patent owned by Nazomi purporting to cover a "Constant
+Pool Reference Resolution Method" (U.S. Patent No. 6,338,160) also seeking monetary damages, injunctive relief, costs and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this
+matter. In May 2010, Site Update Solutions LLC filed a complaint against us for patent infringement in the United States
+District Court for the Eastern District of Texas. The complaint alleges, among other things, that our website technology infringes a patent owned by Site Update purporting to cover a "Process for Maintaining Ongoing Registration for Pages on a
+Given Search Engine" (U.S. Patent No. RE40,683) and seeks monetary damages, a future royalty, costs and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter.
+59
+Table of Contents
+In July 2010, Positive Technologies Inc. filed a complaint against us for patent
+infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that certain of our products, including our Kindle e-reader, infringe three patents owned by the plaintiff purporting to
+cover a "DC Integrating Display Driver Employing Pixel Status Memories" (U.S. Patent Nos. 5,444,457; 5,627,558 and 5,831,588) and seeks monetary damages, injunctive relief, costs and attorneys' fees. We dispute the allegations of
+wrongdoing and intend to vigorously defend ourselves in this matter. In July 2010, the Federal Trade Commission
+("FTC") staff informed us that it was considering whether to recommend enforcement proceedings against us for advertising and selling certain textile fiber products as "bamboo" when they are made of rayon manufactured from
+bamboo, in violation of the Textile Fiber Product Identification Act, the FTC Act, and the regulations promulgated thereunder. We do not believe we have violated these laws and regulations and are cooperating voluntarily with the Commission's
+inquiry. In September 2011, we learned that the Commission voted to refer the matter to the Department of Justice for enforcement proceedings. In September 2010, Olympic Developments AG, LLC filed a complaint against us for patent infringement in the United States District Court for the Central District of California. The complaint alleges,
+among other things, that certain aspects of our technology, including our Kindle e-reader, infringe two patents owned by the plaintiff purporting to cover a "Transactional Processing System" (U.S. Patent No. 5,475,585) and a
+"Device for Controlling Remote Interactive Receiver" (U.S. Patent No. 6,246,400B1) and seeks monetary damages, injunctive relief, costs and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend
+ourselves in this matter. In November 2010, Kelora Systems, LLC filed a complaint against us for patent infringement in the
+United States District Court for the Western District of Wisconsin. The complaint alleges that our website infringes a patent owned by Kelora Systems purporting to cover a "Method and system for executing a guided parametric search" (U.S.
+Patent No. 6,275,821) and seeks monetary damages, costs, attorneys' fees, and injunctive relief. In August 2011, Kelora filed an amended complaint adding Amazon subsidiaries Audible and Zappos as defendants. We dispute the allegations of
+wrongdoing and intend to vigorously defend ourselves in this matter. In December 2010, Global Sessions LP filed a complaint
+against us for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that certain Amazon and AWS technologies infringe four patents owned by the plaintiff purporting to
+cover a "System And Method For Maintaining A State For A User Session Using A Web System Having A Global Session Server" (U.S. Patent No. 6,076,108), an "Enterprise Interaction Hub For Managing An Enterprise Web System"
+(U.S. Patent Nos. 6,085,220 and 6,360,249), and a "System And Method For Maintaining A State For A User Session Using A Web System" (U.S. Patent No. 6,480,894), and seeks monetary damages, a future royalty, injunctive relief, costs
+and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter.
+In December 2010, Technology Innovations, LLC filed a complaint against us for patent infringement in the United States District Court
+for the Southern District of Texas. The complaint alleges, among other things, that Amazon's sale of e-books and Kindle e-readers infringes a patent owned by the plaintiff purporting to cover a "Device For Including Enhancing Information
+With Printed Information And Method For Electronic Searching Thereof" (U.S. Patent No. 5,517,407) and seeks monetary damages, injunctive relief, costs, interest, and attorneys' fees. The complaint was dismissed without prejudice in
+August 2011, but the plaintiff filed a new complaint against us in the United States District Court for the District of Delaware containing similar allegations and alleging infringement of an additional patent purporting to cover an "Apparatus
+for the Display of Embedded Information" (U.S. Patent No. 7,429,965). We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter.
+In February 2011, SFA Systems, LLC, filed a complaint against us for patent infringement in the United States District Court for the
+Eastern District of Texas. The complaint alleges, among other things, that by using computer-
+60
+Table of Contents
+implemented systems and methods for personalization Amazon and Zappos infringe a patent owned by the plaintiff purporting to cover an "Integrated Computerized Sales Force Automation
+System" (U.S. Patent No. 6,067,525), and seeks monetary damages, interest, costs, and attorneys' fees. In August 2011, the plaintiff filed an additional complaint against us in the United States District Court for the Eastern District
+of Texas alleging, among other things, that certain supply chain, sales, marketing, and inventory systems and methods used by Amazon and Zappos infringe a patent owned by the plaintiff purporting to cover a "Sales Force Automation System and
+Method" (U.S. Patent No. 7,941,341), and seeking monetary damages, interest, costs, and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter.
+In April 2011, Walker Digital LLC filed six complaints against us for patent infringement in the United States District Court for the
+District of Delaware. The complaints allege that we infringe several of the plaintiff's U.S. patents by, among other things, providing "cross benefits" to customers through our promotions, (U.S. Patent Nos. 7,831,470 and
+7,827,056), using a customer's identified original product to offer a substitute product (U.S. Patent No. 7,236,942), offering products and services from retailers at discounted prices and arranging for users to buy them from merchants (U.S.
+Patent No. 6,249,772), using our product recommendations and personalization features to offer complementary products together (U.S. Patent Nos. 6,601,036 and 6,138,105), enabling customers to subscribe to a delivery schedule for products they
+routinely use at reduced prices (U.S. Patent No. 5,970,470), and offering personalized advertising based on customers' preferences identified using a data pattern (U.S. Patent No. 7,933,893). A seventh complaint, filed in the same court in
+October 2011, alleges that we infringe plaintiff's U.S. Patent No. 8,041,711 by offering personalized advertising based on customer preferences that associate data with resource locators. The complaints seek monetary damages, interest,
+injunctive relief, costs, and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in these matters. In June 2011, the complaint alleging that we infringed U.S. Patent No. 6,249,772 was
+dismissed. In July 2011, GPNE Corp. filed a complaint against us for patent infringement in the United States District Court
+for the District of Hawaii. The complaint alleges, among other things, that certain aspects of our technology, including our Kindle e-reader, infringe three patents owned by the plaintiff purporting to cover a "Network Communication System
+Wherein a Node Obtains Resources for Transmitting Data by Transmitting Two Reservation Requests" (U.S. Patent No. 7,555,267), a "Communication System Wherein a Clocking Signal from a Controller, a Request from a Node, Acknowledgement of
+the Request, and Data Transferred from the Node are all Provided on Different Frequencies, Enabling Simultaneous Transmission of these Signals" (U.S. Patent No. 7,570,954) and a "Network Communication System with an Alignment Signal
+to Allow a Controller to Provide Messages to Nodes and Transmission of the Messages over Four Independent Frequencies" (U.S. Patent No. 7,792,492) and seeks monetary damages, interest, costs, and attorneys' fees. We dispute the allegations
+of wrongdoing and intend to vigorously defend ourselves in this matter. In September 2011, Parallel Iron, LLC, filed a
+complaint against us for patent infringement in the United States District Court for the District of Delaware. The complaint alleges, among other things, that certain AWS file storage systems that include a Hadoop Distributed File System infringe a
+patent owned by the plaintiff purporting to cover "Methods and Systems for a Storage System With a Program-Controlled Switch for Routing Data" (U.S. Patent No. 7,415,565), and seeks monetary damages, injunctive relief, costs, and
+attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. In
+September 2011, Lochner Technologies, LLC, filed a complaint against us for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that by offering products used for
+desktop virtualization or cloud computing solutions that provide virtual desktop environments Amazon infringes a patent owned by the plaintiff purporting to cover a "Modular Computer System" (U.S. Patent No. 7,035,598), and seeks
+monetary damages, injunctive relief, costs, and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. In September 2011, Semiconductor Ideas to the Market BV filed a complaint against us for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges,
+among
+61
+Table of Contents
+other things, that by offering products including our Kindle e-reader that employ receiver technology designed to diminish signal leakage Amazon infringes two patents owned by the plaintiff
+purporting to cover a "Receiver Comprising A Digitally Controlled Capacitor Bank" (U.S. Patent No. 7,299,018) and a "Communication Device" (U.S. Patent No. 7,072,614), and seeks monetary damages, injunctive relief,
+costs, and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. In September 2011, Droplets, Inc. filed a complaint against us for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things,
+that by offering web applications and software Amazon infringes two patents owned by the plaintiff purporting to cover a "System and Method for Delivering a Graphical User Interface of Remote Applications Over a Thin Client" (U.S. Patent
+No. 6,687,745) and a "System and Method for Delivering Remotely Stored Graphics and Information" (U.S. Patent No. 7,502,838), and seeks monetary damages, injunctive relief, costs, and attorneys' fees. We dispute the
+allegations of wrongdoing and intend to vigorously defend ourselves in this matter. In September 2011, Execware, LLC filed a
+complaint against us for patent infringement in the United States District Court for the District of Delaware. The complaint alleges, among other things, that by rapidly formatting and reformatting tabular displays of records, such as product
+listings on our websites, Amazon infringes a patent owned by the plaintiff purporting to cover an "Integrated Dialog Box for Rapidly Altering Presentation of Parametric Text Data Objects on a Computer Display" (U.S. Patent
+No. 6,216,139), and seeks monetary damages, injunctive relief, costs, and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter.
+In September 2011, Select Retrieval, Inc. filed complaints against us and one of our subsidiaries for patent infringement in the United
+States District Courts for the District of Oregon and the District of Delaware. The complaints allege, among other things, that certain aspects of our websites' technology infringe a patent owned by the plaintiff purporting to cover "Data
+Display Software with Actions and Links Integrated with Information" (U.S. Patent No. 6,128,617), and seek monetary damages, injunctive relief, costs, and attorneys' fees. In December 2011, the plaintiff dismissed all claims against
+us with prejudice. In September 2011, LVL Patent Group, LLC filed three complaints against us for patent infringement in the
+United States District Court for the District of Delaware. The complaints allege, among other things, that certain aspects of our technology, including our mobile applications, infringe four patents owned by the plaintiff purporting to cover a
+"Telephone/Transaction Entry Device and System for Entering Transaction Data into Databases (U.S. Patent Nos. 5,805,676; 5,987,103; and 8,019,060) and a "Data Transaction Assembly Server" (U.S. Patent No. 6,044,382), and seeks
+monetary damages, injunctive relief, costs, and attorneys' fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. In October 2011, Smartphone Technologies LLC filed a complaint against us for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other
+things, that certain aspects of our Kindle devices infringe five patents owned by the plaintiff purporting to cover a "Power-Conserving Intuitive Device Discovery Technique In A Bluetooth Environment" (U.S. Patent No. 6,950,645); a
+"Handheld Computer System That Attempts To Establish An Alternative Network Link Upon Failing To Establish A Requested Network Link" (U.S. Patent No. 7,506,064); a "Method And Apparatus For Communicating Information Over Low
+Bandwidth Communications Networks" (U.S. Patent No. RE 40,459); a "Method For Controlling A Handheld Computer By Entering Commands Onto A Displayed Feature Of The Handheld Computer" (U.S. Patent No. 6,956,562); and a "System
+and Method For Displaying And Manipulating Multiple Calendars On A Personal Digital Assistant" (U.S. Patent No. 6,466,236). In December 2011, we entered into a settlement of the litigation that included, among other things, a payment to
+the plaintiff and a non-exclusive patent license agreement. The settlement was not material to either the current or future years. We cannot predict the impact (if any) that any of the matters described above may have on our business, results of operations, financial position, or cash flows. Because of the inherent uncertainties of
+such matters,
+62
+Table of Contents
+including the early stage and lack of specific damage claims in many of them, we cannot estimate the range of possible losses from them (except as otherwise indicated).
+Other Contingencies In
+September 2010, the State of Texas issued an assessment of $269 million for uncollected sales taxes for the period from December 2005 to December 2009, including interest and penalties through the date of the assessment. The State of Texas is
+alleging that we should have collected sales taxes on applicable sales transactions during those years. We believe that the State of Texas did not provide a sufficient basis for its assessment and that the assessment is without merit. We intend to
+vigorously defend ourselves in this matter. In March 2011, the SEC staff notified us of an inquiry concerning this assessment. We cooperated with the staff's inquiry, and in November 2011 the staff notified us that it had completed its inquiry.
+In November 2011, the State of Arizona issued assessments on behalf of the State and certain cities in the amount of
+approximately $53 million, including tax and interest, for uncollected tax for the periods March 1, 2006 through December 31, 2010. The State of Arizona is alleging that we should have collected a transaction tax that is similar to a sales tax
+on applicable transactions during those years. We believe that the assessment is without merit and intend to vigorously defend ourselves in this matter. Depending on the amount and the timing, an unfavorable resolution of this matter could materially affect our business, results of operations, financial position, or cash flows.
+See also "Note 10--Income Taxes."
+Note 8--STOCKHOLDERS' EQUITY
+Preferred Stock We have authorized 500 million shares of $0.01 par value Preferred Stock. No preferred stock was outstanding for any period presented.
+Common Stock Common shares outstanding plus shares underlying outstanding stock awards totaled 468 million, 465 million, and 461 million, at December 31, 2011, 2010, and 2009. These totals include
+all vested and unvested stock-based awards outstanding, before consideration of estimated forfeitures. Stock Repurchase
+Activity In January 2010, our Board of Directors authorized a program to repurchase up to $2 billion of our common stock.
+We repurchased 1.5 million shares of common stock for $277 million in 2011 under this repurchase program. We did not repurchase any of our common stock in 2010 or 2009. Stock Award Plans Employees vest in restricted stock unit awards over the
+corresponding service term, generally between two and five years. Stock Award Activity
+We granted restricted stock units representing 5.4 million, 5.3 million, and 6.0 million shares of common stock during
+2011, 2010, and 2009 with a per share weighted average fair value of $192.82, $140.43, and $79.24.
+63
+Table of Contents
+The following summarizes our restricted stock unit activity (in millions):
+Scheduled vesting for outstanding restricted stock units at December 31, 2011 is as follows (in
+millions):
+As of December 31, 2011, there was $842 million of net unrecognized compensation cost related to
+unvested stock-based compensation arrangements. This compensation is recognized on an accelerated basis resulting in approximately half of the compensation expected to be expensed in the next twelve months, and has a weighted average recognition
+period of 1.2 years. During 2011 and 2010, the fair value of restricted stock units that vested was $1.0 billion and $792
+million. As matching contributions under our 401(k) savings plan, we granted 0.1 million shares of common stock in both
+2011 and 2010. Shares granted as matching contributions under our 401(k) plan are included in outstanding common stock when issued. Common Stock Available for Future Issuance At December 31, 2011,
+common stock available for future issuance to employees is 155 million shares.
+64
+Table of Contents
+Note 9--OTHER COMPREHENSIVE INCOME (LOSS)
+The components of other comprehensive income (loss) are as follows:
+Balances within accumulated other comprehensive income (loss) are as follows:
+Note 10--INCOME TAXES
+In 2011, 2010, and 2009 we recorded net tax provisions of $291 million, $352 million, and $253 million. A majority
+of this provision is non-cash. We have tax benefits relating to excess stock-based compensation that are being utilized to reduce our U.S. taxable income. As such, cash taxes paid, net of refunds, were $33 million, $75 million, and $48 million for
+2011, 2010, and 2009. The components of the provision for income taxes, net are as follows:
+65
+Table of Contents
+U.S. and international components of income before income taxes are as follows:
+The items accounting for differences between income taxes computed at the federal statutory rate and the
+provision recorded for income taxes are as follows:
+The effective tax rate in 2011, 2010, and 2009 was lower than the 35% U.S. federal statutory rate
+primarily due to earnings of our subsidiaries outside of the U.S. in jurisdictions where our effective tax rate is lower than in the U.S. Such earnings primarily relate to our European operations, which are headquartered in Luxembourg. The favorable
+effective tax rate impact of earnings in lower tax rate jurisdictions is offset by other items, principally losses incurred in jurisdictions for which we may not be able to realize a related tax benefit.
+66
+Table of Contents
+Deferred income tax assets and liabilities are as follows:
+As of December 31, 2011, our federal, foreign and state net operating loss carryforwards
+for income tax purposes were approximately $384 million, $474 million and $585 million. The federal and state net operating loss carryforwards are subject to limitations under Section 382 of the Internal Revenue Code and applicable state tax
+law. If not utilized, a portion of the federal, foreign, and state net operating loss carryforwards will begin to expire in 2025, 2012, and 2012, respectively. As of December 31, 2011, our tax credit carryforwards for income tax purposes were
+approximately $285 million. If not utilized, a portion of the tax credit carryforwards will begin to expire in 2015. The
+company's consolidated balance sheet reflects net operating losses and tax credit carryforwards excluding amounts resulting from excess stock-based compensation. Accordingly, such losses and credits from excess stock-based compensation are
+accounted for as a credit to additional paid-in capital if and when realized through a reduction in income taxes payable.
+Tax Contingencies We are subject to income taxes in the U.S. and numerous foreign jurisdictions. Significant judgment is required in evaluating our tax positions and determining our provision for income taxes. During the
+ordinary course of business, there are many transactions and calculations for which the ultimate tax determination is uncertain. We establish reserves for tax-related uncertainties based on estimates of whether, and the extent to which, additional
+taxes will be due. These reserves are established when we believe that certain positions might be challenged despite our belief that our tax return positions are fully supportable. We adjust these reserves in light of changing facts and
+circumstances, such as the outcome of tax audits. The provision for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate.
+67
+Table of Contents
+The reconciliation of our tax contingencies is as follows:
+As of December 31, 2011 and 2010, we had accrued interest and penalties, net of federal income tax
+benefit, related to tax contingencies of $24 million and $21 million. Interest and penalties, net of federal income tax benefit, recognized for the year ended December 31, 2011 and 2010 was $3 million and $4 million.
+We are under examination, or may be subject to examination, by the Internal Revenue Service ("IRS") for the calendar year 2005
+or thereafter. These examinations may lead to ordinary course adjustments or proposed adjustments to our taxes or our net operating losses. In addition, while we have not yet received a Revenue Agent's Report generally issued at the conclusion
+of an IRS examination, we have received Notices of Proposed Adjustment from the IRS for the 2005 and 2006 calendar years relating to transfer pricing with our foreign subsidiaries. The notices propose an increase to our U.S. taxable income that
+would result in additional federal tax expense over a seven year period beginning in 2005, totaling approximately $1.5 billion, subject to interest. We disagree with the proposed adjustments and intend to vigorously contest them. If we are not able
+to resolve these proposed adjustments at the IRS examination level, we plan to pursue all available administrative and, if necessary, judicial remedies. Certain of our subsidiaries are under examination or investigation or may be subject to
+examination or investigation by the French Tax Administration for the calendar year 2006 or thereafter. We are also subject to taxation in various states and other foreign jurisdictions including China, Germany, Japan, Luxembourg, and the United
+Kingdom. We are or may be subject to examination by these particular tax authorities for the calendar year 2003 or thereafter.
+Due to the nature of our business operations, we expect the total amount of tax contingencies for prior period positions will grow in
+2012 in comparable amounts to 2011. Also, changes in state, federal, and foreign tax laws may increase our tax contingencies. The timing of the resolution of income tax examinations is highly uncertain, and the amounts ultimately paid, if any, upon
+resolution of the issues raised by the taxing authorities may differ from the amounts accrued. It is reasonably possible that within the next 12 months we will receive additional assessments by various tax authorities or possibly reach resolution of
+income tax examinations in one or more jurisdictions. These assessments or settlements may or may not result in changes to our contingencies related to positions on tax filings in years through 2011. The actual amount of any change could vary
+significantly depending on the ultimate timing and nature of any settlements. We cannot currently provide an estimate of the range of possible outcomes.
+Note 11--SEGMENT INFORMATION
+We have organized our operations into two principal segments: North America and International. We present our segment
+information along the same lines that our chief executive reviews our operating results in assessing performance and allocating resources.
+68
+Table of Contents
+We allocate to segment results the operating expenses "Fulfillment,"
+"Marketing," "Technology and content," and "General and administrative," but exclude from our allocations the portions of these expense lines attributable to stock-based compensation. We do not allocate the line item
+"Other operating expense (income), net" to our segment operating results. A majority of our costs for "Technology and content" are incurred in the United States and most of these costs are allocated to our North America segment.
+There are no internal revenue transactions between our reporting segments. North America
+The North America segment consists of amounts earned from retail sales of consumer products (including from sellers) and subscriptions
+through North America-focused websites such as and and include amounts earned from AWS. This segment includes export sales from and .
+International The International segment consists of amounts earned from retail sales of consumer products (including from sellers) and subscriptions through internationally focused locations. This segment includes
+export sales from these internationally based locations (including export sales from these sites to customers in the U.S. and Canada), but excludes export sales from our U.S. and Canadian locations.
+Information on reportable segments and reconciliation to consolidated net income is as follows:
+69
+Table of Contents
+Net sales of similar products and services were as follows:
+Net sales earned from retail sales of consumer products (including from sellers) and subscriptions outside of
+the U.S. represented between 45% to 49% of net sales for 2011, 2010, and 2009. Net sales earned in Germany, Japan, and United Kingdom each represented 11% to 15% of net sales in 2011 and 2010, and 13% to 17% of net sales in 2009.
+Total assets, fixed assets, net, and total fixed asset additions, by segment, reconciled to consolidated amounts were (in millions):
+Fixed assets, net, located outside of the U.S. represented less than 10% of consolidated fixed assets,
+net, for any individual country. Depreciation expense, by segment, is as follows (in millions):
+70
+Table of Contents
+Note 12--QUARTERLY RESULTS (UNAUDITED)
+The following tables contain selected unaudited statement of operations information for each quarter of 2011 and 2010.
+The following information reflects all normal recurring adjustments necessary for a fair presentation of the information for the periods presented. The operating results for any quarter are not necessarily indicative of results for any future
+period. Our business is affected by seasonality, which historically has resulted in higher sales volume during our fourth quarter. Unaudited quarterly results are as follows (in millions, except per share data):
+71
+Table of Contents
+None.
+Evaluation of Disclosure Controls and Procedures We carried out an
+evaluation required by the 1934 Act, under the supervision and with the participation of our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as
+defined in Rule 13a-15(e) of the 1934 Act, as of December 31, 2011. Based on this evaluation, our principal executive officer and principal financial officer concluded that, as of December 31, 2011, our disclosure controls and procedures
+were effective to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the 1934 Act is recorded, processed, summarized, and reported within the time periods specified in the
+SEC's rules and forms and to provide reasonable assurance that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely
+decisions regarding required disclosures. Management's Report on Internal Control over Financial Reporting
+Management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined
+in Rule 13a-15(f) of the 1934 Act. Management has assessed the effectiveness of our internal control over financial reporting as of December 31, 2011 based on criteria established in Internal Control--Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission. As a result of this assessment, management concluded that, as of December 31, 2011, our internal control over financial reporting was effective in providing reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Ernst & Young has independently assessed the effectiveness of
+our internal control over financial reporting and its report is included below. Changes in Internal Control Over Financial
+Reporting There were no changes in our internal control over financial reporting during the quarter ended
+December 31, 2011 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Limitations on Controls Our disclosure controls and procedures and
+internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives as specified above. Management does not expect, however, that our disclosure controls and procedures or our internal control over
+financial reporting will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute, assurance that its objectives will be met.
+Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within the Company have been detected.
+72
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+The Board of Directors and Shareholders
+Amazon.com, Inc. We have
+audited Amazon.com, Inc.'s internal control over financial reporting as of December 31, 2011, based on criteria established in Internal Control--Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (the COSO criteria). Amazon.com, Inc.'s management is responsible for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting included
+in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the company's internal control over financial reporting based on our audit.
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards
+require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control
+over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered
+necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. A company's
+internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted
+accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that
+receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+In our opinion, Amazon.com, Inc. maintained, in all material respects, effective internal control over financial reporting as of
+December 31, 2011, based on the COSO criteria. We also have audited, in accordance with the standards of the Public
+Company Accounting Oversight Board (United States), the consolidated balance sheets of Amazon.com, Inc. as of December 31, 2011 and 2010, and the related consolidated statements of operations, stockholders' equity, and cash flows for each
+of the three years in the period ended December 31, 2011 of Amazon.com, Inc. and our report dated January 31, 2012 expressed an unqualified opinion thereon.
+/s/ Ernst & Young LLP Seattle, Washington January 31, 2012
+73
+Table of Contents
+None. PART III
+Information regarding our Executive Officers required by Item 10 of Part III is set forth in Item 1 of Part I
+"Business--Executive Officers and Directors." Information required by Item 10 of Part III regarding our Directors and any material changes to the process by which security holders may recommend nominees to the Board of Directors
+is included in our Proxy Statement relating to our 2012 Annual Meeting of Shareholders, and is incorporated herein by reference. Information relating to our Code of Business Conduct and Ethics and to compliance with Section 16(a) of the 1934
+Act is set forth in our Proxy Statement relating to our 2012 Annual Meeting of Shareholders and is incorporated herein by reference. To the extent permissible under Nasdaq rules, we intend to disclose amendments to our Code of Business Conduct and
+Ethics, as well as waivers of the provisions thereof, on our investor relations website under the heading "Corporate Governance" at
+Information required by Item 11 of Part III is included in our Proxy Statement relating to our 2012 Annual Meeting of Shareholders and is incorporated herein by reference.
+Information required by Item 12 of Part III is included in our Proxy Statement relating to our 2012
+Annual Meeting of Shareholders and is incorporated herein by reference.
+Information required by Item 13 of Part III is included in our Proxy Statement relating to our 2012 Annual Meeting of Shareholders
+and is incorporated herein by reference.
+Information required by Item 14 of Part III is included in our Proxy Statement relating our 2012 Annual Meeting of Shareholders and
+is incorporated herein by reference. PART IV
+(a) List of Documents Filed as a Part of This Report:
+(1) Index to Consolidated Financial Statements:
+Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
+Consolidated Statements of Cash Flows for each of the three years ended December 31, 2011
+Consolidated Statements of Operations for each of the three years ended December 31, 2011
+74
+Table of Contents
+Consolidated Balance Sheets as of December 31, 2011 and 2010
+Consolidated Statements of Stockholders' Equity for each of the three years ended December 31, 2011
+Notes to Consolidated Financial Statements
+Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
+(2) Index to Financial Statement Schedules:
+Schedule II - Valuation and Qualifying Accounts
+All other schedules have been omitted because the required information is included in the consolidated financial
+statements or the notes thereto, or because it is not required. (3) Index to Exhibits
+See exhibits listed under the Exhibit Index below.
+75
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this
+Report to be signed on its behalf by the undersigned, thereunto duly authorized, as of January 31, 2012.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed
+below by the following persons on behalf of the registrant and in the capacities indicated as of January 31, 2012.
+76
+Table of Contents
+AMAZON.COM, INC.
+SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS
+77
+Table of Contents
+EXHIBIT INDEX
+78
