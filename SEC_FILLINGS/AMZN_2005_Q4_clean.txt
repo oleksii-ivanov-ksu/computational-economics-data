@@ -1,0 +1,490 @@
+--(Continued)
+The PRC regulates Joyo.com's business through regulations and license requirements restricting
+(i) the scope of foreign investment in the Internet, retail and delivery sectors, (ii) Internet content and (iii) the sale of certain media products. In order to meet the PRC local ownership and regulatory licensing requirements, Joyo.com's
+business is operated through a PRC subsidiary which acts in cooperation with PRC companies owned by nominee shareholders who are PRC nationals. Joyo.com does not own any capital stock of the PRC affiliates, but is the primary beneficiary of future losses or profits through contractual rights. As a
+result, we consolidate the results of the PRC affiliates in accordance with FIN 46R, "Consolidation of Variable Interest Entities." The net assets and operating results for the PRC affiliates were not significant. Accounting Change As of January 1, 2005, we adopted SFAS No. 123(R) using the
+modified prospective method, which requires measurement of compensation cost for all stock-based awards at fair value on date of grant and recognition of compensation over the service period for awards expected to vest. The adoption of SFAS 123(R)
+resulted in a cumulative benefit from accounting change of $26 million, which reflects the net cumulative impact of estimating future forfeitures in the determination of period expense, rather than recording forfeitures when they occur as previously
+permitted. See "Note 1--Description of Business and Accounting Policies--Stock-based Compensation." Cash and Cash Equivalents We classify all highly liquid instruments, including money market funds that comply with Rule 2a-7 of the Investment Company Act of 1940, with a remaining
+maturity of three months or less at the time of purchase as cash equivalents. Inventories Inventories, consisting of products available for sale, are accounted for using the FIFO method, and are valued at the lower of cost or market value. This valuation requires us to make judgments, based on currently-available information,
+about the likely method of disposition, such as through sales to individual customers, returns to product vendors, or liquidations, and expected recoverable values of each disposition category. Based on this evaluation, we adjust the carrying amount
+of our inventories to lower of cost or market value. We
+provide fulfillment-related services in connection with certain of our third parties and Amazon Enterprise Solutions programs. In those arrangements, as well as all other product sales by third parties, the third party maintains ownership of the
+related products. Accounts Receivable, Net and Other
+Current Assets Included in "Accounts receivable, net
+and other current assets" are prepaid expenses of $15 million and $12 million at December 31, 2005 and 2004, representing advance payments for insurance, licenses, and other miscellaneous expenses. Allowance for Doubtful Accounts We estimate losses on receivables based on known troubled accounts, if any,
+and historical experience of losses incurred. The allowance for doubtful accounts receivable was $43 million and $23 million at December 31, 2005 and 2004.
+54
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Internal-use Software and Website Development Costs incurred to develop software for internal use are required to be
+capitalized and amortized over the estimated useful life of the software in accordance with Statement of Position (SOP) 98-1, Accounting for the Costs of Computer Software Developed or Obtained for Internal Use. Costs related to design or
+maintenance of internal-use software are expensed as incurred. For the years ended 2005, 2004, and 2003, we capitalized $90 million (including $11 million of stock-based compensation), $44 million, and $30 million of costs associated with
+internal-use software and website development, which are partially offset by amortization of previously capitalized amounts of $50 million, $30 million, and $24 million. Depreciation of Fixed Assets Fixed assets include assets such as furniture and fixtures, heavy equipment, technology infrastructure, internal-use
+software and website development, and our DVD rental library. Depreciation is recorded on a straight-line basis over the estimated useful lives of the assets (generally two years or less for assets such as internal-use software and our DVD rental
+library, three years for our technology infrastructure, five years for furniture and fixtures, and ten years for heavy equipment). Depreciation expense is generally classified within the corresponding operating expense categories on the consolidated
+statements of operations, and certain assets, such as our DVD rental library, are amortized as "Cost of sales." Leases and Asset Retirement Obligations We account for our lease agreements pursuant to SFAS No 13, Accounting for Leases, which categorizes leases at their inception as either operating
+or capital leases depending on certain defined criteria. On certain of our lease agreements, we may receive rent holidays and other incentives. We recognize lease costs on a straight-line basis without regard to deferred payment terms, such as rent
+holidays that defer the commencement date of required payments. Additionally, incentives we receive are treated as a reduction of our costs over the term of the agreement. Leasehold improvements are capitalized at cost and amortized over the lesser
+of their expected useful life or the life of the lease, without assuming renewal features, if any, are exercised. In accordance with Statement of Financial Accounting Standards (SFAS) No. 143, Accounting for Asset Retirement Obligations, we establish
+assets and liabilities for the present value of estimated future costs to return certain of our leased facilities to their original condition. Such assets are depreciated over the lease period into operating expense, and the recorded liabilities are
+accreted to the future value of the estimated restoration costs. Goodwill We evaluate goodwill for impairment,
+at a minimum, on an annual basis and whenever events and changes in circumstances suggest that the carrying amount may not be recoverable. Impairment of goodwill is tested at the reporting unit level by comparing the reporting unit's carrying
+amount, including goodwill, to the fair value of the reporting unit. The fair values of the reporting units are estimated using discounted projected cash flows. If the carrying amount of the reporting unit exceeds its fair value, goodwill is
+considered impaired and a second step is performed to measure the amount of impairment loss, if any. We conduct our annual impairment test as of October 1 of each year, and have determined there to be no impairment in 2005 or 2004. There were
+no events or circumstances from the date of our assessment through December 31, 2005 that would impact this assessment. At December 31, 2005 and December 31, 2004, approximately 71% and 72% of our acquired goodwill was assigned to our International segment, the majority of
+which relates to our acquisition of Joyo.com in 2004.
+55
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Other Assets Included in "Other assets" on our consolidated balance sheets are amounts primarily related to deferred issuance
+charges on our long-term debt, which are amortized over the life of the debt; certain equity investments; and intangible assets, net of amortization. At December 31, 2005, and 2004, deferred issuance charges were $13 million, and $19 million;
+equity investments were $8 million and $15 million; and intangibles, net of amortization, were $11 million, and $5 million. Other intangibles, included within "Other assets," consist of the following:
+Investments The initial carrying cost of our investments is the price we paid. Investments are accounted for using the equity method of accounting if the investment
+gives us the ability to exercise significant influence, but not control, over an investee. We classify our investments in equity-method investees on the consolidated balance sheets as "Other assets" and our share of the investees'
+earnings or losses as "Remeasurements and other" on the consolidated statements of operations. Losses from equity-method investees were not significant for any period presented. We do not hold over 20% interest in any of our investees as
+of December 31, 2005 or 2004. All other equity investments,
+which consist of investments for which we do not have the ability to exercise significant influence, are accounted for under the cost method. Under the cost method of accounting, investments in private companies are carried at cost and are adjusted
+only for other-than-temporary declines in fair value, distributions of earnings, and additional investments. For public companies that have readily determinable fair values, we classify our equity investments as available-for-sale and, accordingly,
+record these investments at their fair values with unrealized gains and losses, net of tax, included in "Accumulated other comprehensive income," a separate component of Stockholders' Equity (Deficit). We generally invest our excess cash in investment grade short to intermediate
+term fixed income securities and AAA-rated money market mutual funds. Such investments are included in "Cash and cash equivalents," or "Marketable securities" on the accompanying consolidated balance sheets and are reported at
+fair value with unrealized gains and losses included in "Accumulated other comprehensive income." The weighted average method is used to determine the cost of Euro-denominated securities sold, and the specific identification method is used
+to determine the cost of all other securities.
+56
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+We periodically evaluate whether declines in fair values of our investments below their cost are
+other-than-temporary. This evaluation consists of several qualitative and quantitative factors regarding the severity and duration of the unrealized loss as well as our ability and intent to hold the investment until a forecasted recovery occurs.
+Factors considered include quoted market prices, if available; recent financial results and operating trends; other publicly available information; implied values from any recent purchase/sales offers of investee securities; or other conditions that
+may affect the value of our investments. At December 31, 2005, gross unrealized losses on our marketable securities were $16 million and were determined to be temporary based on our assessment of the qualitative and quantitative factors
+discussed above. Long-Lived Assets Long-lived assets, other than goodwill, are reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying amount of the assets might not be recoverable. Conditions that would necessitate an impairment assessment include a significant decline in the observable market value of an asset, a
+significant change in the extent or manner in which an asset is used, or any other significant adverse change that would indicate that the carrying amount of an asset or group of assets is not recoverable. For long-lived assets used in operations, impairment losses are only recorded
+if the asset's carrying amount is not recoverable through its undiscounted, probability-weighted cash flows. We measure the impairment loss based on the difference between the carrying amount and estimated fair value. Long-lived assets are considered held for sale when certain criteria are met,
+including: management has committed to a plan to sell the asset, the asset is available for sale in its immediate condition, and the sale is probable within one year of the reporting date. Assets held for sale are reported at the lower of cost or
+fair value less costs to sell. Assets held for sale were not significant at December 31, 2005 or 2004. Accrued Expenses and Other Current Liabilities Included in "Accrued expenses and other current liabilities" at December 31, 2005 and 2004 are liabilities of $131 million and $107 million for
+unredeemed gift certificates. Unearned Revenue
+Unearned revenue is recorded when payments are received
+in advance of performing our service obligations and is recognized ratably over the service period. Unearned revenue was $48 million and $41 million at December 31, 2005 and 2004. These amounts are included in "Accrued expenses and other
+current liabilities" on the consolidated balance sheets. Income Taxes Income tax expense includes U.S.
+and international income taxes. We do not provide for U.S. taxes on our undistributed earnings of international subsidiaries, totaling $24 million at December 31, 2005, since we intend to invest such undistributed earnings indefinitely outside
+of the U.S. Deferred income tax balances reflect the effects
+of temporary differences between the carrying amounts of assets and liabilities and their tax bases and are stated at enacted tax rates expected to be in effect when taxes are actually paid or recovered. At December 31, 2005, our deferred tax
+assets, net of deferred tax liabilities and valuation allowance, are $291 million, which includes $123 million relating to net operating loss carryforwards ("NOLs") that are primarily attributed to stock-based compensation. The majority of
+our NOLs begin to expire in 2016.
+57
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Additionally, we have elected to present our NOL deferred tax assets attributed to stock-based
+compensation net of the related allowance as of the adoption of SFAS 123(R). Total gross deferred tax assets related to our NOLs at December 31, 2005 were $616 million (relating to approximately $1.9 billion of NOLs). SFAS 109, Accounting for Income Taxes, requires that deferred tax
+assets be evaluated for future realization and reduced by a valuation allowance to the extent we believe a portion will not be realized. We consider many factors when assessing the likelihood of future realization of our deferred tax assets
+including our recent cumulative earnings experience by taxing jurisdiction, expectations of future taxable income, the carry-forward periods available to us for tax reporting purposes, and other relevant factors. In accordance with the provisions of
+SFAS 109, we allocate our valuation allowance to current and long-term deferred tax assets on a pro-rata basis. We recorded a tax benefit in 2005 of $90 million, representing $0.22 and $0.21 of basic and diluted earnings per share, as we determined at year end that
+certain of our deferred tax assets were more likely than not realizable. The range of possible judgments relating to valuation of our deferred tax assets is very wide. For example, had we determined that the weight of available evidence did not
+support a decision that these deferred tax assets are realizable; the "Provision (benefit) for income taxes" would have been an expense of $185 million for 2005 rather than an expense of $95 million for the same period. At
+December 31, 2005 we continue to have a valuation allowance of $213 million, which relates primarily to deferred tax assets that would only be realizable upon the occurrence of future capital gains. See "Note 11--Income Taxes."
+Revenue We recognize revenue from product sales or services rendered when the
+following four revenue recognition criteria are met: persuasive evidence of an arrangement exists, delivery has occurred or services have been rendered, the selling price is fixed or determinable, and collectibility is reasonably assured.
+Additionally, revenue arrangements with multiple deliverables are divided into separate units of accounting if the deliverables in the arrangement meet the following criteria: the delivered item has value to the customer on a standalone basis; there
+is objective and reliable evidence of the fair value of undelivered items; and delivery of any undelivered item is probable. We evaluate the criteria outlined in Emerging Issues Task Force (EITF) Issue No. 99-19, Reporting Revenue Gross as a Principal Versus Net as an
+Agent, in determining whether it is appropriate to record the gross amount of product sales and related costs or the net amount earned as commissions. Generally, when we are primarily obligated in a transaction, are subject to inventory risk,
+have latitude in establishing prices and selecting suppliers, or have several but not all of these indicators, revenue is recorded gross. If we are not primarily obligated and amounts earned are determined using a fixed percentage, a fixed-payment
+schedule, or a combination of the two, we generally record the net amounts as commissions earned. Under our syndicated stores arrangements, we record gross product sales and costs since we own the inventory, set prices, and are responsible for
+fulfillment and customer service, and the other business earns a sales commission. Product sales and shipping revenues, net of promotional discounts, rebates, and return allowances, are recorded when the products are shipped and title passes to customers. Retail sales to customers are made pursuant
+to a sales contract that provides for transfer of both title and risk of loss upon our delivery to the carrier. Return allowances, which reduce product revenue, are estimated using historical experience. Amounts paid in advance for subscription
+services, including amounts received for online DVD rentals and other membership programs, are deferred and recognized as revenue over the subscription term. We periodically provide incentive offers to our customers to encourage purchases. Such offers include current discount offers, such as percentage
+discounts off current purchases, inducement offers, such as offers for future discounts subject to a minimum current purchase, and other similar offers. Current discount offers, when accepted by our customers, are treated as a reduction to the
+purchase price of the related transaction, while
+58
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+inducement offers, when accepted by our customers, are treated as a reduction to purchase price based on estimated future redemption rates. Redemption rates
+are estimated using our historical experience for similar inducement offers. Current discount offers and inducement offers are presented as a net amount in "Net sales." Commissions and per-unit fees received from third-party sellers and similar amounts earned through Amazon Enterprise
+Solutions are recognized when the item is sold by the third-party seller and our collectibility is reasonably assured. We record an allowance for estimated refunds on such commissions using historical experience. Shipping Activities Outbound shipping charges to customers are included in "Net sales"
+and were $511 million, $420 million, and $372 million for 2005, 2004, and 2003. Outbound shipping-related costs are included in "Cost of sales" and totaled $750 million, $617 million, and $508 million for 2005, 2004, and 2003. The net cost
+to us of shipping activities was $239 million, $197 million, and $136 million for 2005, 2004 and 2003. Cost of Sales Cost of sales consists of the purchase price of consumer products sold by us, inbound and outbound shipping charges, packaging supplies, amortization of
+our DVD rental library and costs incurred in operating and staffing our fulfillment and customer service centers on behalf of other businesses, such as Toysrus.com, Inc. and Target Corporation. Shipping charges to receive products from our suppliers
+are included in our inventory, and recognized as "Cost of sales" upon sale of products to our customers. Payment processing and related transaction costs, including those associated with our guarantee for certain third-party seller
+transactions, are classified in "Fulfillment" on the consolidated statements of operations. Vendor Agreements We have agreements to receive cash consideration from certain of our vendors, including rebates and cooperative marketing reimbursements. We generally
+presume amounts received from our vendors are a reduction of the prices we pay for their products and, therefore, we reflect such amounts as either a reduction of "Cost of sales" on our consolidated statements of operations, or, if the
+product inventory is still on hand, as a reduction of the carrying value of inventory. Vendor rebates are typically dependent upon reaching minimum purchase thresholds. We evaluate the likelihood of reaching purchase thresholds using past experience
+and current year forecasts. When volume rebates can be reasonably estimated, we record a portion of the rebate as we make progress towards the purchase threshold. When we receive direct reimbursements for costs incurred by us in advertising the vendor's product or service, the
+amount we receive is recorded as an offset to "Marketing" on our consolidated statements of operations. Fulfillment Fulfillment costs represent those costs incurred in operating and staffing our fulfillment and customer service centers, including costs attributable to
+buying, receiving, inspecting, and warehousing inventories; picking, packaging, and preparing customer orders for shipment; payment processing and related transaction costs, including costs associated with our guarantee for certain third-party
+seller transactions; and responding to inquiries from customers. Fulfillment costs also include amounts paid to third-parties that assist us in fulfillment
+59
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+and customer service operations. Certain of our fulfillment-related costs that are incurred on behalf of other businesses, such as Toysrus.com, Inc. and
+Target Corporation, are classified as cost of sales rather than fulfillment. Marketing Marketing
+costs consist of primarily online advertising, including through our Associates and Syndicated Stores programs, sponsored search, portal advertising, e-mail campaigns, and other initiatives. We pay commissions to participants in our Associates
+program when their customer referrals result in product sales and classify such costs as "Marketing" on our consolidated statements of operations. We also participate in cooperative advertising arrangements with certain of our vendors, and other third parties. To the extent co-operative marketing
+reimbursements decline in future periods, we may incur additional expenses to continue certain promotions or elect to reduce or discontinue them. Marketing expenses also consist of public relations expenditures; payroll and related expenses for personnel engaged in marketing, business development,
+and selling activities; and to a lesser extent, traditional advertising such as newspaper inserts. Advertising and other promotional costs, which consist primarily of online advertising, are expensed as incurred, and were $168 million, $141 million, and
+$109 million in 2005, 2004, and 2003. Prepaid advertising costs were not significant at December 31, 2005 and 2004. Technology and Content Technology and content expenses consist principally of payroll and related expenses for employees involved in research and development, including
+application development, editorial content, merchandising selection, systems and telecommunications support, and costs associated with the systems and telecommunications infrastructure. Technology and content costs are expensed as incurred, except for certain costs relating to the development of internal-use
+software and website development, including software used to upgrade and enhance our websites and processes supporting our business, which are capitalized and depreciated over two years. During 2005, 2004, and 2003 we capitalized $90 million
+(including $11 million of stock-based compensation), $44 million, and $30 million of costs associated with development of internal-use software, which is offset by amortization of previously capitalized amounts of $50 million, $30 million, and $24
+million. Fixed assets associated with capitalized internal-use software, content, and website development, net of accumulated depreciation, were $87 million and $47 million at December 31, 2005 and 2004. General and Administrative General and administrative expenses consist of payroll and related expenses
+for employees involved in general corporate functions, including accounting, finance, tax, legal, and human relations, among others; costs associated with use by these functions of facilities and equipment, such as depreciation expense and rent;
+professional fees and litigation costs; and other general corporate costs. Stock-Based Compensation Prior to January 1, 2005, we accounted for stock-based awards under the intrinsic value method, which followed the recognition and measurement principles of APB Opinion No. 25, Accounting for Stock Issued to Employees, and
+related Interpretations. The intrinsic value method of accounting resulted in compensation
+60
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+expense for restricted stock and restricted stock units at their estimated fair value on date of grant based on the number of shares granted and the quoted
+price of our common stock, and for stock options to the extent option exercise prices were set below market prices on the date of grant. Also, to the extent stock awards were subject to an exchange offer, other modifications, or performance
+criteria, such awards were subject to variable accounting treatment. To the extent stock awards were forfeited prior to vesting, the corresponding previously recognized expense was reversed as an offset to operating expenses. As of January 1, 2005, we adopted SFAS No. 123(R) using the
+modified prospective method, which requires measurement of compensation cost for all stock-based awards at fair value on date of grant and recognition of compensation over the service period for awards expected to vest. The fair value of restricted
+stock and restricted stock units is determined based on the number of shares granted and the quoted price of our common stock, and the fair value of stock options is determined using the Black-Scholes valuation model, which is consistent with our
+valuation techniques previously utilized for options in footnote disclosures required under SFAS No. 123, Accounting for Stock Based Compensation, as amended by SFAS No. 148, Accounting for Stock-Based
+Compensation--Transition and Disclosure. Such value is recognized as expense over the service period, net of estimated forfeitures, using the accelerated method under SFAS 123(R). The estimation of stock awards that will ultimately vest
+requires judgment, and to the extent actual results or updated estimates differ from our current estimates, such amounts will be recorded as a cumulative adjustment in the period estimates are revised. We consider many factors when estimating
+expected forfeitures, including types of awards, employee class, and historical experience. Actual results, and future changes in estimates, may differ substantially from our current estimates. For example, in the fourth quarter of 2005, we recorded
+a benefit of $10 million, $6 million net of tax, or $0.01 per diluted share, representing the cumulative effect of increasing the rate of forfeitures expected over the life of issued stock awards based on our historical experience. Additionally,
+because we implemented SFAS 123(R), we no longer have employee stock awards subject to variable accounting treatment. The adoption of SFAS 123(R) resulted in a cumulative benefit from accounting change of $26 million in 2005, which reflects the net cumulative impact of
+estimating future forfeitures in the determination of period expense, rather than recording forfeitures when they occur as previously permitted. Prior to the adoption of SFAS 123(R), cash retained as a result of tax deductions relating to stock-based compensation was presented in operating cash
+flows, along with other tax cash flows, in accordance with the provisions of the EITF No. 00-15, Classification in the Statement of Cash Flows of the Income Tax Benefit Received by a Company upon Exercise of a Nonqualified Employee Stock
+Option. SFAS 123(R) supersedes EITF 00-15, amends SFAS 95, Statement of Cash Flows, and requires tax benefits relating to excess stock-based compensation deductions to be prospectively presented in the statement of cash flows as financing
+cash inflows. Tax benefits resulting from stock-based compensation deductions in excess of amounts reported for financial reporting purposes were $7 million, $8 million, and $4 million for the years ended December 31, 2005, 2004, and 2003. We
+expect the corresponding amount for 2006 to increase substantially and possibly be in excess of $100 million, although the actual amount is subject to considerable variability. On March 29, 2005, the SEC published Staff Accounting Bulletin (SAB) No. 107, which provides the Staff's
+views on a variety of matters relating to stock-based payments. SAB 107 requires stock-based compensation be classified in the same expense line items as cash compensation. We have reclassified stock-based compensation from prior periods to
+correspond to current period presentation within the same operating expense line items as cash compensation paid to employees.
+61
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+The application of SFAS 123(R) had the following effect on reported amounts relative to amounts that
+would have been reported using the intrinsic value method under previous accounting (in millions, except per share amounts):
+The fair value for
+each stock option granted was estimated at the date of grant using a Black-Scholes option-pricing model, assuming no dividends and the following assumptions:
+Stock-based
+compensation for the years ended December 31, 2004 and 2003 was determined using the intrinsic value method. The following table provides pro forma financial information as if stock-based compensation had been computed under SFAS 123 (in
+millions, except per share data):
+62
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Restructuring Estimates Restructuring-related liabilities include estimates for, among other things, anticipated disposition of lease obligations.
+Key variables in determining such estimates include anticipated timing of sublease rentals, estimates of sublease rental payment amounts and tenant improvement costs, and estimates for brokerage and other related costs. We periodically evaluate and,
+if necessary, adjust our estimates based on currently-available information. Additionally, we may determine that certain of the office space previously vacated as part of our 2001 restructuring, which we have been unable to sublease due to poor real
+estate market conditions, may be necessary for our future needs. To the extent we elect to utilize this office space we will adjust our restructuring-related liability and classify future payments to the corresponding operating expense categories on
+the consolidated statements of operations. See "Note 8--Other Operating Expense (Income)." Foreign Currency We have the following internationally-focused websites: , , , , , and
+. Net sales generated from internationally-focused websites, as well as most of the related expenses directly incurred from those operations, are denominated in the functional currencies of the resident countries. Additionally, the
+functional currency of our subsidiaries that either operate or support , , , , , and is the same as the local currency of the United Kingdom, Germany,
+France, Japan, Canada, and China. Assets and liabilities of these subsidiaries are translated into U.S. Dollars at period-end exchange rates, and revenues and expenses are translated at average rates prevailing throughout the period. Translation
+adjustments are included in "Accumulated other comprehensive income," a separate component of stockholders' equity (deficit) and in the "Effect of exchange-rate changes on cash and cash equivalents," on the consolidated
+statements of cash flows. Transaction gains and losses arising from transactions denominated in a currency other than the functional currency of the entity involved are included in "Other income (expense), net" on the consolidated
+statements of operations. See "Note 9--Other Income (Expense), Net." A provision of SFAS No. 52, Foreign Currency Translation, requires that gains and losses arising from intercompany foreign currency transactions considered long-term investments, where settlement is not
+planned or anticipated in the foreseeable future, be excluded in the determination of net income. Our international operations are financed, in part, by the U.S. parent company. In periods ending prior to the fourth quarter of 2003, currency
+adjustments for these intercompany balances were recorded to stockholders' equity (deficit) as translation adjustments and not included in the determination of net income because we intended to permanently invest such amounts. During the fourth
+quarter of 2003, we made the decision that these amounts would be repaid among the entities and, accordingly, upon consolidation, any exchange gain or loss arising from remeasurements of intercompany balances is required to be recorded in the
+determination of net income. In accordance with SFAS No. 52, currency adjustments arising before the fourth quarter of 2003 continue to be included as a component of "Accumulated other comprehensive income" on our consolidated balance
+sheets. In connection with the remeasurement of intercompany balances, we recorded a loss of $47 million in 2005, and gains of $41 million and $36 million in 2004 and 2003. Derivative Financial Instruments During 2003, we terminated our Euro Currency Swap that previously was designated as a cash flow hedge of a portion of the
+6.875% PEACS principal and interest. See "Note 4--Long-Term Debt and Other." We hold warrants to purchase equity securities of other companies that are derivative financial instruments, classified in "Other assets" on the consolidated balance sheets. We do not designate our warrants
+as hedging
+63
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+instruments; accordingly, gains or losses resulting from changes in fair value are recognized on the consolidated statements of operations,
+"Remeasurements and other," in the period of change. We determine the fair value of our warrants through option-pricing models using current market price and volatility assumptions, including public-company market comparables for our
+private-company warrants. Earnings per Share
+Basic earnings per share is calculated using our
+weighted-average outstanding common shares. Diluted earnings per share is calculated using our weighted-average outstanding common shares including the dilutive effect of stock awards as determined under the treasury stock method. Our convertible debt instruments are excluded from the calculation of diluted
+earnings per share as their effect is antidilutive. See "Note 4--Long-Term Debt and Other." The following table shows the calculation of diluted shares (in millions):
+Recent Accounting Pronouncements In March 2005, the FASB issued FASB Interpretation (FIN) No. 47, Accounting for Conditional Asset Retirement Obligations, An Interpretation of
+FASB Statement No. 143. A conditional asset retirement obligation refers to a legal obligation to retire assets where the timing and/or method of settlement are conditioned on future events. FIN No. 47 requires an entity to recognize a
+liability for the fair value of a conditional asset retirement obligation when incurred if the liability's fair value can be reasonably estimated. We adopted the provisions of FIN 47 in 2005. The adoption of this Interpretation did not have a
+material impact on our consolidated financial position, results of operations or cash flows. In November 2005, the FASB issued Staff Position No. FAS 115-1, The Meaning of Other-Than-Temporary Impairment and its Application to Certain Investments ("FSP 115-1"). FSP 115-1 provides accounting
+guidance for determining and measuring other-than-temporary impairments of debt and equity securities, and confirms the disclosure requirements for investments in unrealized loss positions as outlined in EITF issue 03-01, The Meaning of
+Other-Than-Temporary Impairments and its Application to Certain Investments. The accounting requirements of FSP 115-1 are effective for us on January 1, 2006 and will not have a material impact on our consolidated financial position, results of
+operations or cash flows.
+64
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Reclassifications Certain prior year amounts have been reclassified to conform to the current year presentation. Note 2--CASH, CASH EQUIVALENTS, AND MARKETABLE SECURITIES The following tables summarize, by major security type, our cash and
+marketable securities (in millions):
+65
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+The following table summarizes contractual maturities of our cash equivalent and marketable
+fixed-income securities as of December 31, 2005 (in millions):
+Gross gains of $7
+million, $12 million, and $17 million and gross losses of $12 million, $1 million and $1 million were realized on sales of available-for-sale marketable securities, including Euro-denominated securities, for 2005, 2004, and 2003. We are required to pledge a portion of our cash equivalents or marketable
+securities as collateral for standby letters of credit that guarantee certain of our contractual obligations, a line of credit, and real estate lease agreements. See "Note 5--Commitments and Contingencies." Note 3--FIXED ASSETS Fixed assets, at cost, consist of the following (in millions):
+Depreciation expense on fixed assets was $113 million, $75 million, and $70 million, which includes amortization of fixed assets acquired under capital
+lease obligations of $4 million, $5 million and $7 million for 2005, 2004, and 2003. Gross assets remaining under capital leases were $8 million and $4 million at December 31, 2005 and 2004. Accumulated depreciation associated with capital
+leases was $2 million and $2 million at December 31, 2005 and 2004.
+66
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Note 4--LONG-TERM DEBT AND OTHER Our long-term debt and other long-term liabilities are summarized as follows:
+6.875% PEACS
+In February 2000, we completed an offering of EUR690
+million of our 6.875% Premium Adjustable Convertible Securities due February 2010 ("6.875% PEACS"). The 6.875% PEACS are convertible, at the holder's option, into our common stock at a conversion price of EUR84.883 per share
+($100.52, based on the exchange rates as of December 31, 2005). Total common stock issuable, as of December 31, 2005, upon conversion of our outstanding 6.875% PEACS was 5.8 million shares, which is excluded from our calculation of
+earnings per share as its effect is anti-dilutive. The U.S. Dollar equivalent principal, interest, and conversion price fluctuate based on the Euro/U.S. Dollar exchange ratio. Interest on the 6.875% PEACS is payable annually in arrears in
+February of each year. The 6.875% PEACS are unsecured and are subordinated to any existing and future senior indebtedness. The 6.875% PEACS rank equally with our outstanding 4.75% Convertible Subordinated Notes. We have the right to redeem the
+6.875% PEACS, in whole or in part, by paying the principal, plus any accrued and unpaid interest. No premium payment is required for early redemption. Upon the occurrence of a "fundamental change" prior to the maturity of the 6.875% PEACS, each holder thereof has the right to require us to
+redeem all or any part of such holder's 6.875% PEACS at a price equal to 100% of the principal amount of the notes being redeemed, together with accrued interest. As defined in the indenture, a "fundamental change" is the occurrence
+of certain types of transactions in which our stockholders do not receive publicly-traded securities. The indenture governing the 6.875% PEACS contains certain affirmative covenants for us, including making principal and interest payments when due,
+maintaining our corporate existence and properties, and paying taxes and other claims in a timely manner. We were in compliance with these covenants through December 31, 2005. In the first quarter of 2005, we redeemed an aggregate principal amount of EUR200 million ($265 million based on the Euro
+to U.S. Dollar exchange rate on the date of redemption) of our outstanding 6.875% PEACS. We recorded a charge classified in "Remeasurements and other," of approximately $4 million related to the redemption, consisting of $2 million in
+unamortized deferred issuance charges and $2 million relating to unrealized losses on our terminated currency swap that previously hedged a portion of our 6.875% PEACS. Accrued and unpaid interest of $0.9 million was also paid at redemption and
+recorded to "Interest expense." During 2003, we
+terminated our Euro Currency Swap that previously was designated as a cash flow hedge of a portion of the 6.875% PEACS' principal and interest. Although neither party made cash payments to
+67
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+terminate the agreement, we recorded a non-cash loss of $6 million to "Remeasurements and other" representing the remaining basis in our swap
+asset. At December 31, 2005, the remaining cumulative unrealized loss associated with our Euro Currency Swap, recorded to "Accumulated other comprehensive income," was $4 million, net of tax effects. In accordance with SFAS
+No. 133, Accounting for Derivative Instruments and Hedging Activities, this accumulated loss will be amortized to "Remeasurements and other" over the life of the 6.875% PEACS. If we redeem or otherwise restructure our 6.875%
+PEACS prior to maturity in 2010, any remaining cumulative unrealized loss associated with the Euro Currency Swap will be recorded as a charge to "Remeasurements and other." Based upon quoted market prices, the fair value of the 6.875% PEACS was $586 million and $936 million (outstanding principal
+of EUR490 million and EUR690 million) as of December 31, 2005 and 2004. In February 2006, we announced plans to redeem EUR250 million principal of our 6.875% PEACS, which is expected to close March 7, 2006, for a cash payment of approximately $305 million (at the Euro to U.S. dollar
+exchange rate on January 31, 2006), which includes $1 million of interest. Additionally, in February 2006, our Board of Directors authorized a new debt repurchase program, replacing our previous debt repurchase authorization in its entirety, pursuant to which we may from time to time
+repurchase (through open market repurchases or private transactions), redeem, or otherwise retire up to an aggregate of $500 million of our outstanding 4.75% Convertible Subordinated Notes and 6.875% PEACS. 4.75% Convertible Subordinated Notes On February 3, 1999, we completed an offering of $1.25 billion of 4.75%
+Convertible Subordinated Notes due February 2009. The 4.75% Convertible Subordinated Notes are convertible into our common stock at the holders' option at a conversion price of $78.0275 per share. Interest on the 4.75% Convertible Subordinated
+Notes is payable semi-annually in arrears in February and August of each year. The 4.75% Convertible Subordinated Notes are unsecured and are subordinated to any existing and future senior indebtedness as defined in the indenture governing the 4.75%
+Convertible Subordinated Notes. The 4.75% Convertible Subordinated Notes rank equally with our outstanding 6.875% PEACS. We have the right to redeem the 4.75% Convertible Subordinated Notes, in whole or in part, by paying the principal plus a
+redemption premium, plus any accrued and unpaid interest. At December 31, 2005, the redemption premium was 1.900% of the principal, and decreased to 1.425% on February 1, 2006 and will decrease by an additional 47.5 basis points annually
+until maturity. Upon the occurrence of a "fundamental
+change" prior to the maturity of the 4.75% Convertible Subordinated Notes, each holder thereof has the right to require us to redeem all or any part of such holder's 4.75% Convertible Subordinated Notes at a price equal to 100% of the
+principal amount of the notes being redeemed, together with accrued interest. As defined in the indenture, a "fundamental change" is the occurrence of certain types of transactions in which our stockholders do not receive publicly-traded
+securities. The indenture governing the 4.75% Convertible
+Subordinated Notes contains certain affirmative covenants for us, including making principal and interest payments when due, maintaining our corporate existence and properties, and paying taxes and other claims in a timely manner. We were in
+compliance with these covenants through December 31, 2005. In 2004, we redeemed an aggregate principal amount of $150 million of our outstanding 4.75% Convertible Subordinated Notes. As provided in the underlying indenture, the redemption price of $154 million represented a $4 million
+(2.375%) premium over the face amount of the redeemed notes. We recorded a charge in 2004
+68
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+classified in "Remeasurements and other," of $6 million related to this redemption, consisting of a premium of $4 million and unamortized deferred
+issuance costs of $2 million. Based upon quoted market prices,
+the fair value of our 4.75% Convertible Subordinated Notes as of December 31, 2005 and 2004 was $868 million and $907 million. Note 5--COMMITMENTS AND CONTINGENCIES Commitments We lease office and fulfillment center facilities and fixed assets under non-cancelable operating and capital leases. Rental expense under operating lease
+agreements was $84 million, $55 million, and $52 million for 2005, 2004, and 2003. The following summarizes our principal contractual commitments, excluding open orders for inventory purchases that support normal operations, as of December 31, 2005:
+See "Note 8--Other Operating Expense (Income)" for additional
+information about our restructuring-related lease obligations.
+69
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Pledged Securities We are required to pledge a portion of our cash equivalents or marketable securities as collateral for standby letters of
+credit that guarantee certain of our contractual obligations, a line of credit, and real estate lease agreements. The amount required to be pledged for real estate lease agreements changes over the life of our leases; with fluctuations in our market
+capitalization, which is common shares outstanding multiplied by the closing price of our common stock; and based on our credit-rating. Information about collateral required to be pledged under these agreements is as follows:
+Legal Proceedings The Company is involved from time to time in claims, proceedings and
+litigation, including the following: A number of purported
+class action complaints were filed by holders of our equity and debt securities against us, our directors, and certain of our senior officers during 2001, in the United States District Court for the Western District of Washington, alleging
+violations of the Securities Act of 1933 (the "1933 Act") and/or the Securities Exchange Act of 1934 (the "1934 Act"). In August 2003, plaintiffs in the 1934 Act cases filed a second consolidated amended complaint alleging that
+we, together with certain of our officers and directors, made false or misleading statements during the period from October 29, 1998 through October 23, 2001 concerning our business, financial condition and results, inventories, future
+prospects, and strategic alliance transactions. The 1933 Act complaint alleges that the defendants made false or misleading statements in connection with our February 2000 offering of the 6.875% PEACS. The complaints seek damages and injunctive
+relief against all defendants. We dispute the allegations of wrongdoing in these complaints and have been vigorously defending ourselves in these matters. In March 2005, we signed a Stipulation of Settlement with counsel representing the plaintiff
+class with respect to the 1934 Act claims. In July 2005, we signed a Stipulation of Settlement with counsel representing the plaintiff class with respect to the 1933 Act claims. These settlements, which were approved by the Court in the fourth
+quarter of 2005, dispose of all claims asserted in these lawsuits in exchange for payments totaling $48 million, substantially all of which we expect to be funded by our insurers. In October 2002, Gary Gerlinger, individually and on behalf of all other similarly situated consumers in the United States
+who, during the period from August 1, 2001 to the present, purchased books online from either Amazon.com or Borders.com, instituted an action against us and Borders in the United States District Court for the Northern District of California.
+The complaint alleges that the agreement pursuant to which an affiliate of
+70
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Amazon.com operates Borders.com as a co-branded site violates federal anti-trust laws, California statutory law, and the common law of unjust enrichment. The
+complaint seeks injunctive relief, damages, including treble damages or statutory damages where applicable, attorneys' fees, costs, and disbursements, disgorgement of all sums obtained by allegedly wrongful acts, interest, and declaratory
+relief. In November 2005, the Court dismissed all of the plaintiff's claims with prejudice. The plaintiff is appealing that dismissal. We dispute the allegations of wrongdoing in this complaint, and we will continue to defend ourselves
+vigorously in this matter. Beginning in March 2003, we were
+served with complaints filed in several different states, including Illinois and Nevada, by a private litigant purportedly on behalf of the state governments under various state False Claims Acts. The complaints allege that we (along with other
+companies with which we have commercial agreements) wrongfully failed to collect and remit sales and use taxes for sales of personal property to customers in those states and knowingly created records and statements falsely stating we were not
+required to collect or remit such taxes. The complaints seek injunctive relief, unpaid taxes, interest, attorneys' fees, civil penalties of up to $10,000 per violation, and treble or punitive damages under the various state False Claims Acts.
+It is possible that we have been or will be named in similar cases in other states as well. We do not believe that we are liable under existing laws and regulations for any failure to collect sales or other taxes relating to Internet sales and
+intend to vigorously defend ourselves in these matters. In
+January 2004, IPXL Holdings, LLC brought an action against us for patent infringement in the United States District Court for the Eastern District of Virginia. The complaint alleges that aspects of our online ordering technology, including
+1-Click®️ ordering, infringe a patent obtained by
+IPXL purporting to cover an "Electronic Fund Transfer or Transaction System" (U.S. Patent No. 6,149,055) and seeks injunctive relief, monetary damages in an amount no less than a reasonable royalty, prejudgment interest, and
+attorneys' fees. In August 2004, the Court entered a judgment in Amazon.com's favor on the grounds that the patent claims asserted by the plaintiff were invalid and that Amazon.com's technology did not infringe those claims in any
+event. The judgment in our favor was affirmed by the Court of Appeals for the Federal Circuit in November 2005. In April 2004, we learned that the French authorities are investigating our DVD sales practices in France, and we are cooperating. In May 2004, Toysrus.com LLC filed a complaint against us for breach of
+contract in the Superior Court of New Jersey. The complaint alleges that we breached our commercial agreement with Toysrus.com LLC by selling, and by permitting other third parties to sell, products that Toysrus.com LLC alleges it has an exclusive
+right to sell on our website. The complaint seeks injunctive relief, declaratory judgment, termination of the agreement, and monetary damages in excess of $65 million. We dispute the allegations of wrongdoing in this complaint and have brought
+counterclaims alleging breach of contract and seeking damages and declaratory relief. The trial of both parties' claims concluded in November 2005, and a decision by the Court is pending. In September 2004, BTG International Inc. filed a complaint against us for
+patent infringement in the United States District Court for the District of Delaware. The complaint alleges that our website technology, including our Associates program, infringes two patents obtained by BTG purporting to cover methods and
+apparatuses for "Attaching Navigational History Information to Universal Resource Locator Links on a World Wide Web Page" (U.S. Patent No. 5,712,979) and for "Tracking the Navigation Path of a User on the World Wide Web"
+(U.S. Patent No. 5,717,860) and seeks injunctive relief, monetary damages in an amount no less than a reasonable royalty, treble damages for alleged willful infringement, prejudgment interest, costs, and attorneys' fees. We dispute the
+allegations of wrongdoing in this complaint and intend to vigorously defend ourselves in this matter. In October 2004 Cendant Publishing, Inc. filed a complaint against us for patent infringement in the United States District Court for the District of
+Delaware. The complaint alleged that our website technology, including
+71
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+our recommendations features, infringes a patent obtained by Cendant purporting to cover a "System and Method for Providing Recommendation of Goods or
+Services Based on Recorded Purchasing History" (U.S. Patent No. 6,782,370) and sought injunctive relief, monetary damages in an amount no less than a reasonable royalty, prejudgment interest, costs, and attorneys' fees. In February
+2005, Cendant voluntarily withdrew the complaint without prejudice. In June 2005, however, Cendant re-filed a new complaint containing substantially the same claims. In response, we filed a countersuit in the United States District Court for the
+Western District of Washington (since transferred to the District of Delaware) alleging that Cendant's parent, Cendant Corporation, and its affiliates Orbitz, Inc., Budget Rent A Car System, Inc., Avis Rent A Car System, Inc., and Trilegiant
+Corporation infringe certain patents owned by us and our subsidiary, A9.com. We dispute Cendant's allegations of wrongdoing in its complaint and intend to vigorously defend ourselves in these matters. In December 2005, Registrar Systems LLC filed a complaint against us and
+Target Corporation for patent infringement in the United States District Court for the District of Colorado. The complaint alleges that our website technology, including the method by which Amazon.com enables customers to use Amazon.com account
+information on websites that Amazon.com operates for third parties, such as Target.com, infringes two patents obtained by Registrar Systems purporting to cover methods and apparatuses for a "World Wide Web Registration Information Processing
+System" (U.S. Patent Nos. 5,790,785 and 6,823,327) and seeks injunctive relief, monetary damages in an amount no less than a reasonable royalty, prejudgment interest, costs, and attorneys' fees. We dispute the allegations of
+wrongdoing in this complaint and intend to vigorously defend ourselves in this matter. Depending on the amount and the timing, an unfavorable resolution of some or all of these matters could materially affect our business, results of operations, financial position, or cash flows in a particular period.
+Inventory Suppliers During 2005, no vendor accounted for 10% or more of our inventory purchases.
+We do not have long-term contracts or arrangements with most of our vendors to guarantee the availability of merchandise, particular payment terms, or the extension of credit limits. Note 6--STOCKHOLDERS' EQUITY (DEFICIT) Preferred Stock We have authorized 500 million shares of $0.01 par value Preferred Stock. No preferred stock was outstanding for any period presented. Stock Award Plans Employees vest in restricted stock unit awards and stock options over the
+corresponding service term, generally between two and five years. Outstanding stock options generally have a term of 10 years from the date of grant. Stock Award Activity We granted stock awards, which since October 2002 have consisted primarily of restricted stock units, representing 6 million, 3 million, and
+2 million shares of common stock during 2005, 2004, and 2003 with a per share weighted average fair value of $36.50, $43.77, and $30.14.
+72
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Common shares underlying outstanding stock awards were as follows:
+Common shares outstanding (which includes restricted stock), plus shares underlying outstanding stock options and restricted stock units totaled
+438 million, 434 million, and 433 million at December 31, 2005, 2004 and 2003. These totals include all stock-based awards outstanding, without regard for estimated forfeitures, consisting of vested and unvested awards, and
+in-the-money and out-of-the-money stock options. Common shares outstanding increased by 6 million shares in both 2005 and 2004, due to exercises of stock options, vesting of restricted stock units, and matching contributions under our 401(k)
+savings plan. The following summarizes our restricted stock
+unit activity (in millions):
+Scheduled vesting for
+outstanding restricted stock units at December 31, 2005 is as follows (in millions):
+73
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+The following table summarizes our stock option activity:
+The following table
+summarizes information about stock options outstanding at December 31, 2005:
+The aggregate
+intrinsic value of stock options outstanding at 2005 was $554 million, of which $294 million relates to vested awards. Intrinsic value for stock options is calculated based on the difference between the exercise price of the underlying awards and
+the quoted price of our common stock as of the reporting date. As matching contributions under our 401(k) savings plan, we granted 0.09 million and 0.07 million shares of common stock for years ended 2005 and 2004. Shares granted as matching contributions under our 401(k) plan and shares of
+restricted stock are included in outstanding common stock when issued. As of December 31, 2005, there was $169 million of total unrecognized compensation cost, net of estimated forfeitures of $106 million, related to unvested stock-based compensation arrangements. This compensation is recognized on an
+accelerated basis resulting in approximately half of the compensation expected to be expensed in the next twelve months, and a weighted average recognition period of 1.4 years. During 2005 and 2004, the fair value of restricted stock units and restricted stock awards vested was $50 million and
+$44 million, and the intrinsic value of options exercised was $180 million and $217 million.
+74
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Common Stock Available for Future Issuance At December 31, 2005, common stock available for future issuance is as
+follows (in millions):
+Note 7--OTHER COMPREHENSIVE
+INCOME The changes in the components of other
+comprehensive income (loss) were as follows (in millions):
+Accumulated balances within other comprehensive
+income were as follows (in millions):
+75
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Note 8--OTHER OPERATING EXPENSE (INCOME) Other operating expense was $47 million in 2005, primarily attributable to our settlement of a patent lawsuit for $40
+million, as well as amortization of other intangibles of $5 million. Other operating income was $8 million for 2004 and other operating expense was $3 million for 2003, which includes restructuring-related credits, net, of $9 million in 2004 and
+amortization of other intangibles of $1 million and $3 million in 2004 and 2003. During 2004, we determined that certain of the office space previously vacated as part of our 2001 restructuring, which we had been unable to sublease due to poor real estate market conditions, was necessary for our
+future needs. We reduced our restructuring-related liability resulting in a gain of $13 million for 2004. Lease payments for this office space are expensed over the lease period and classified to the corresponding operating expense categories on the
+consolidated statements of operations. In 2004, we streamlined
+our organizational structure in France to reduce our operating costs. These efforts were primarily focused on eliminating French-office positions in managerial, professional, clerical, and technical roles. The number of employees affected totaled 52
+and resulted in severance costs of $4 million classified in "Other operating expense (income)" on the consolidated statements of operations. Note 9--OTHER INCOME (EXPENSE), NET Other income (expense), net, was $2 million, $(5) million, and $7 million, in 2005, 2004 and 2003, and consisted primarily of gains (losses) on sales of
+marketable securities, foreign-currency transaction gains (losses), and other miscellaneous losses, net. Foreign-currency transaction gains (losses) primarily relate to the interest payable on our 6.875% PEACS. Since these payments are settled in Euros, the
+balance of interest payable (which is paid annually in February) is subject to gains or losses resulting from changes in exchange rates between the U.S. Dollar and Euro between reporting dates and payment Note 10--REMEASUREMENTS AND OTHER Remeasurements and other consisted of the following:
+76
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Note 11--INCOME TAXES Cash taxes paid were $12 million, $4 million, and $2 million for 2005, 2004, and 2003. The components of the provision for income taxes, net are as follows:
+U.S. and international
+components of income (loss) before income taxes are as follows:
+Total income tax
+expense/(benefit) and amounts allocated to stockholders' equity (deficit) were as follows:
+The items accounting
+for differences between income taxes computed at the federal statutory rate and the provision (benefit) recorded for income taxes are as follows:
+77
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+The significant components of deferred income tax expense/(benefit) attributable to income from
+continuing operations for the year ended December 31, 2005 are as follows:
+Deferred income taxes
+were:
+Note 12--SEGMENT INFORMATION We have organized our operations into two principal segments: North America and International. We present our segment information along the same lines
+that our chief executive reviews our operating results in assessing performance and allocating resources. We allocate to segment results the operating expenses "Fulfillment," "Marketing," "Technology and content," and
+"General and administrative," but exclude from our allocations the portions of these expense lines attributable to stock-based compensation. Additionally, we do not allocate the line item "Other operating income (expense)" to our
+segment operating results. A significant majority of our costs for "Technology and content" are incurred in the United States and most of these costs are allocated to our North America segment. There are no internal revenue transactions
+between our reporting segments.
+78
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+North America The North America segment consists of amounts earned from retail sales of consumer products (including from third-party
+sellers) and subscriptions through North America-focused websites such as and from North America-focused Syndicated Stores, such as from our mail-order tool catalog phone orders;
+from our Amazon Prime membership program; and from non-retail activities such as North America-focused Amazon Enterprise Solutions, marketing, and promotional agreements. This segment includes export sales from and
+. International The International segment consists of amounts earned from retail sales of
+consumer products (including from third-party sellers) and subscriptions through internationally focused websites such as , , , , and since September 2004,
+from internationally focused Syndicated Stores; from our DVD rental service and from non-retail activities such as internationally focused marketing and promotional agreements. This segment includes export sales from these
+internationally based sites (including export sales from these sites to customers in the U.S. and Canada), but excludes export sales from and . Information on reportable segments and reconciliation to consolidated net income is as follows (in millions):
+79
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Net sales shipped to customers outside of the U.S. represented approximately 49%, 49%, and 43% of net
+sales for 2005, 2004, and 2003. Net sales from , , and each represented 10% or more of consolidated net sales in 2005 and 2004; net sales from and
+each represented 10% or more of consolidated net sales in 2003. Net fixed assets held in locations outside the U.S. were $68 million, $57 million, and $45 million at December 31, 2005, 2004, and 2003. Total assets, by segment, reconciled to consolidated amounts were (in
+millions):
+Depreciation expense,
+by segment, was as follows (in millions):
+Note 13--FAIR VALUES OF
+FINANCIAL INSTRUMENTS The carrying amount and estimated
+fair values of our financial instruments were as follows (in millions):
+80
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+Note 14--QUARTERLY RESULTS (UNAUDITED) The following tables contain selected unaudited statement of operations information for each quarter of 2005, 2004, and
+2003. The following information reflects all normal recurring adjustments necessary for a fair presentation of the information for the periods presented. The operating results for any quarter are not necessarily indicative of results for any future
+period. Unaudited quarterly results were as follows (in millions, except per share data):
+81
+Table of Contents
+AMAZON.COM, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+82
+Table of Contents
+Item 9. Changes in and Disagreements with Accountants On Accounting and Financial Disclosure None.
+Item 9A. Controls and Procedures Evaluation of Disclosure Controls and Procedures We carried out an evaluation required by the 1934 Act, under the supervision and with the participation of our principal executive officer and principal
+financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rule 13a-15(e) of the 1934 Act, as of December 31, 2005. Based on this evaluation, our principal executive officer and
+principal financial officer concluded that, as of December 31, 2005, our disclosure controls and procedures were effective in timely alerting them to material information required to be included in our periodic SEC reports. Management's Report on Internal Control over Financial Reporting
+Management is responsible for establishing and
+maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f) of the 1934 Act. Management has assessed the effectiveness of our internal control over financial reporting as of December 31, 2005 based on criteria
+established in Internal Control--Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. As a result of this assessment, management concluded that, as of December 31, 2005, our internal control
+over financial reporting was effective in providing reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+Ernst & Young LLP has issued an attestation report on management's assessment of internal control over financial reporting, a copy of which is included in this annual report on Form 10-K. Limitations on Controls Management does not expect that our disclosure controls and procedures or
+our internal control over financial reporting will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute, assurance that
+its objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within the Company have been detected.
+83
+Table of Contents
+Report of Ernst & Young LLP Independent Registered Public Accounting Firm The Board of Directors and Stockholders Amazon.com, Inc. We have audited management's assessment, included in the accompanying Management's Report on Internal Control over
+Financial Reporting, that Amazon.com, Inc. maintained effective internal control over financial reporting as of December 31, 2005, based on criteria established in Internal Control--Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission (the COSO criteria). Amazon.com, Inc.'s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over
+financial reporting. Our responsibility is to express an opinion on management's assessment and an opinion on the effectiveness of the Company's internal control over financial reporting based on our audit. We conducted our audit in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our
+audit included obtaining an understanding of internal control over financial reporting, evaluating management's assessment, testing and evaluating the design and operating effectiveness of internal control, and performing such other procedures
+as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that
+(1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as
+necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors
+of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over
+financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. In
+our opinion, management's assessment that Amazon.com, Inc. maintained effective internal control over financial reporting as of December 31, 2005, is fairly stated, in all material respects, based on the COSO criteria. Also, in our
+opinion, Amazon.com, Inc. maintained, in all material respects, effective internal control over financial reporting as of December 31, 2005, based on the COSO criteria. We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the
+consolidated balance sheets of Amazon.com, Inc. as of December 31, 2005 and 2004, and the related consolidated statements of operations, shareholders' equity (deficit), and cash flows for each of the three years in the period ended
+December 31, 2005 of Amazon.com, Inc. and our report dated February 16, 2006 expressed an unqualified opinion thereon. /S/ ERNST & YOUNG LLP Seattle, Washington February 16, 2006
+84
+Table of Contents
+Item 9B. Other Information None. PART III
+Item 10. Directors and Executive Officers of the Registrant Information regarding our Executive Officers required by Item 10 of Part III is set forth in Item 1 of Part I "Business--Executive
+Officers and Directors." Information required by Item 10 of Part III regarding our Directors is included in our Proxy Statement relating to our 2006 Annual Meeting of Shareholders, and is incorporated herein by reference. Information
+relating to our Code of Business Conduct and Ethics and to compliance with Section 16(a) of the 1934 Act is set forth in our Proxy Statement relating to our 2006 Annual Meeting of Shareholders and is incorporated herein by reference.
+Item 11. Executive Compensation Information required by Item 11 of Part III is included in our Proxy Statement relating to our 2006 Annual Meeting of Shareholders and is
+incorporated herein by reference.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters Information required by Item 12 of Part III is included in our Proxy Statement relating to our 2006 Annual Meeting of
+Shareholders and is incorporated herein by reference.
+Item 13. Certain Relationships and Related Transactions Information required by Item 13 of Part III is included in our Proxy Statement relating to our 2006 Annual Meeting of Shareholders and is
+incorporated herein by reference.
+Item 14. Principal Accountant Fees and Services Information required by Item 14 of Part III is included in our Proxy Statement relating our 2006 Annual Meeting of Shareholders and is incorporated
+herein by reference. PART IV
+Item 15. Exhibits, Financial Statement Schedules (a) List of Documents Filed as a Part of This Report: (1) Index to Consolidated Financial Statements: Report of Ernst & Young LLP, Independent Registered
+Public Accounting Firm Consolidated
+Statements of Cash Flows for each of the three years ended December 31, 2005 Consolidated Statements of Operations for each of the three years ended December 31, 2005 Consolidated Balance Sheets as of December 31, 2005 and
+2004 Consolidated Statements of
+Stockholders' Equity (Deficit) for each of the three years ended December 31, 2005 Notes to Consolidated Financial Statements
+85
+Table of Contents
+(2) Index to Financial Statement Schedules: Schedule II--Valuation and Qualifying Accounts
+All other schedules have been omitted because
+the required information is included in the consolidated financial statements or the notes thereto, or is not applicable or required. (3) Index to Exhibits
+86
+Table of Contents
+87
+Table of Contents
+SIGNATURES Pursuant to the
+requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized, as of February 16, 2006.
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the registrant and in the capacities indicated as of February 16, 2006.
+88
+Table of Contents
+AMAZON.COM, INC. SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS Accounts receivable and other current assets--Reserves
+Table of Contents
+EXHIBIT INDEX
+Table of Contents
